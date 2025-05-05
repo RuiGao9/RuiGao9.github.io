@@ -13,7 +13,8 @@ Education
 ======
 * Ph.D in Hydrology, Utah State University, 2023
 * M.S. in Hydrology, Xinjiang Agricultural University, 2017
-* B.S. in Hydrology and Water Resources, Xinjiang Agricultural University, 2014
+* B.S. in Hydrology and Water Resources Engineering, Xinjiang Agricultural University, 2014
+* Visiting scholar in Hydrology and Water Resources Engineering, Hohai University, 2012
 
 Work experience
 ======
