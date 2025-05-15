@@ -26,7 +26,7 @@ author:
   name             : "Rui Gao"
   pronouns         : "he/his"  
   bio              : "A Postdoctoral Scholar | Son-Husband-Father"
-  location         : "Earth"
+  location         : "5200 Lake Rd., Civil & Environmental Engineering, University of California Merced"
   employer         : "University of California Merced"
   uri              : "https://ruigao9.github.io/"
   email            : "RuiGao@UCMerced.edu" 
@@ -52,7 +52,6 @@ author:
 
   # Social media
   bluesky          : "@raymondgao7.bsky.social" # Replace this with you Bluesky username
-  X                : "@RaymondGao7"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -68,7 +67,7 @@ author:
   soundcloud       : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "@RaymondGao7"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
