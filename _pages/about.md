@@ -16,14 +16,39 @@ Three Latest News
 - **April 15, 2025:** Rui plays a guest speaker role in the class called [Spatial Analysis and Modeling (ENGR 180)](https://drive.google.com/file/d/1sQx-iy8hCPcJqZwYrSHoo-C8KeYjIAY3/view?usp=drive_link) at the University of California Merced.
 - **March 11, 2025:** Rui attended [SNRI Early Career Researcher Lightning Talks](https://snri.ucmerced.edu/events/2025-lightning-talks) held at the Conference Center of the University of California Merced with topic "Forecasting Reference ET Using Deep Learning".
 
-Getting started
+Past News:
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+31. **February 10, 2025:** Rui attended a workshop to learn some basic theories about the Eddy-Covariance (EC) flux tower and some general rules to establish the EC flux tower appropriately.
+30. **January 28, 2025:** Rui leads a conversation about forecasting short-crop reference evapotranspiration (ETo) with the T-REX and SAWS teams.
+29. **December 12, 2024:** Rui received the official offer letter to join the Planet's Education and Research (E&R) Program!
+28. **November 15, 2024:** "Interactions between ecosystem services and their causal relationships with driving factors: A case study of the Tarim River Basin, China," one journal article Rui was involved in was published on Ecological Indicators.
+27. **October 28, 2024:** Rui accepted the role as a guest editor for the MDPI journal of Drones in the special issue: Drone-enabled smart sensing: challenges and opportunities.
+26. **October 1, 2024:** Rui reviewed one peer-reviewed paper and submitted his comments to the Journal of Hydrology.
+25. **September 24, 2024:** Rui was invited to speak to the Secure Water Future (SWF) group at the University of California Merced.
+24. **September 3, 2024:** Rui starts his work as a Postdoctoral Scholar at the University of California at Merced (https://ecohydrology.ucmerced.edu/team/).
+23. **August 17, 2024:** Rui reviewed one peer-reviewed paper and submitted his comments to the Remote Sensing of Environment.
+22. **August 10, 2024:** Message Board, a function for recording questions, comments, suggestions, and/or potential cooperation opportunities from my webpage reviewers', has been added.
+21. **August 9, 2024:** Rui reviewed one peer-reviewed paper and submitted his comments to the OENO One Vine and Wine—Open Access Journal.
+20. **August 1, 2024:** A research project that Rui has been involved in has one peer-reviewed work published in the Journal of Hydrology Engineering.
+19. **July 21, 2024:** Rui has been invited to the OENO One Vine and Wine - Open Access Journal as a reviewer.
+18. **July 12, 2024:** Rui reviewed one peer-reviewed paper and submitted his comments to the Hydrological Processes Journal.
+17. **July 9, 2024:** Rui has been invited to the Hydrological Processes journal as a reviewer.
+16. **June 20, 2024:** Rui reviewed one peer-reviewed paper and submitted his comments to the Papers in Applied Geography Journal.
+15. **May 21, 2024:** Rui has been invited to give a group talk via Microsoft Teams at Colorado State University College of Agricultural Science.
+14. **April 17, 2024:** Rui has been invited to join the Duzce University Faculty of Agriculture Journal's Scientific Advisory Board.
+13. **April 5, 2024:** Rui was invited to give a talk at the Department of Biological and Ecological Engineering at Oregon State University. Crop water status and stress monitoring in California vineyards using remote sensing.
+12. **March 22, 2024:** Rui was invited to give a talk at the Department of Forestry at Mississippi State University on vineyard water status and stress monitoring in California based on remote sensing data and ground measurements.
+11. **February 7, 2024:** Rui reviewed one peer-reviewed paper and submitted his comments to the Agricultural Water Management Journal.
+10. **Jan 28, 2024:** Rui gave his oral presentation at the 104th AMS annual conference on estimating 3-m evapotranspiration data using Planet and OpenET data with machine learning techniques.
+9. **Dec 11, 2023:** Rui presented a poster at the AGU23 Fall conference: Utilizing sUAS and time-series weather data with machine learning for leaf and stem water potential assessment in California vineyards.
+8. **November 22, 2023:** Rui reviewed one peer-reviewed paper and submitted his comments to the International Journal of Digital Earth.
+7. **November 2, 2023:** Rui reviewed one peer-reviewed paper and submitted his comments to the Frontiers in Plant Science Journal.
+6. **October 30, 2023:** Rui reviewed one peer-reviewed paper and submitted his comments to the Remote Sensing of Environment Journal.
+5. **October 24, 2023:** Rui reviewed one peer-reviewed paper and submitted his comments to the Earth System Science Data Journal.
+4. **June 16, 2023:** Rui started his work as a postdoctoral associate in the Department of Forestry (room 371) at Mississippi State University.
+3. **April 11, 2023:** Rui finished his Ph.D. dissertation defense in the 211C room in the Civil & Environmental Engineering Department at Utah State University.
+2. **April 2, 2023:** Rui reviewed one peer-reviewed paper and submitted his comments to the Remote Sensing of Environment Journal.
+1. **December 4, 2022:** Rui reviewed one peer-reviewed paper and submitted his comments to the Remote Sensing of Environment Journal.
 
 Site-wide configuration
 ------
