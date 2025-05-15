@@ -22,7 +22,7 @@ repository               : "RuiGao9/RuiGao9.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Professional_GS.JPG"
   name             : "Rui Gao"
   pronouns         : "he/his"  
   bio              : "A Postdoctoral Scholar | Son-Husband-Father"
@@ -65,7 +65,6 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
