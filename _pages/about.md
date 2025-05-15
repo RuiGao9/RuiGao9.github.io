@@ -1,12 +1,5 @@
 ---
 permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 ---
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bhJ1rXVGAv0" 
@@ -14,6 +7,12 @@ redirect_from:
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen></iframe>
 </div>
+---
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Rui started his Ph.D. program in January 2020 under Dr. [Alfonso Torres-Rua](https://engineering.usu.edu/cee/people/faculty/torres-alfonso)'s supervisor at [Utah Water Research Laboratory](https://uwrl.usu.edu/) (UWRL) in Utah State University (Logan main campus) and obtained his Ph.D. degree in August 2023.
