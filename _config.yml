@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Rui Gao / Green Resource Lab"
+title                    : "Dr. Gao, Rui / Green Resource Lab"
 title_separator          : "-"
 name                     : &name "Rui Gao"
 description              : &description "personal description"
