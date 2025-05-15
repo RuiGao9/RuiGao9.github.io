@@ -23,13 +23,13 @@ repository               : "RuiGao9/RuiGao9.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Rui Gao"
+  pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "University of California Merced"
+  uri              : "https://ruigao9.github.io/"
+  email            : "RuiGao@UCMerced.edu" 
 
   # Academic websites
   academia         : # URL
