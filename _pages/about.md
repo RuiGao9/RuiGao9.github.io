@@ -19,7 +19,7 @@ Rui's dissertation focused on utilizing high-resolution imagery from small unman
 
 Three Latest News
 ======
-- **April 23, 2025:** Rui gives a talk titled "Wake Me Up When Evapotranspiration Starts" at the Forest Ecohydrology & Watershed Systems (FEWS) Lab, at the University of California Merced.
+- **April 23, 2025:** Rui gives a talk titled "**Wake Me Up When Evapotranspiration Starts**" at the Forest Ecohydrology & Watershed Systems (FEWS) Lab, at the University of California Merced.
 - **April 15, 2025:** Rui plays a guest speaker role in the class called [Spatial Analysis and Modeling (ENGR 180)](https://drive.google.com/file/d/1sQx-iy8hCPcJqZwYrSHoo-C8KeYjIAY3/view?usp=drive_link) at the University of California Merced.
 - **March 11, 2025:** Rui attended [SNRI Early Career Researcher Lightning Talks](https://snri.ucmerced.edu/events/2025-lightning-talks) held at the Conference Center of the University of California Merced with topic "Forecasting Reference ET Using Deep Learning".
 
