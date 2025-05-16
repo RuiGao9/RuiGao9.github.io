@@ -1,11 +1,15 @@
 ---
-title: 'Learning notes about the TSEB-2T model'
-date: 2025-05-15
-permalink: /posts/2025/05/blog-post-1/
+title: 'Artificial Agricultural Drainage Ditch System(AADDS) Detection and Delination'
+date: 2018-08-23
+permalink: /projects/2018/08/project1/
 tags:
-  - EvapoTranspiration
-  - Modeling
-  - Learning Materials
+  - Drainage
+  - Image Processing
+  - Signal Processing
+  - ArcMap
+  - ArcGIS-Pro
+  - Python
+  - Matlab
 ---
 
 What you can see is:
