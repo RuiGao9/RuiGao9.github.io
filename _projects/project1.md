@@ -1,0 +1,18 @@
+---
+title: 'Learning notes about the TSEB-2T model'
+date: 2025-05-15
+permalink: /posts/2025/05/blog-post-1/
+tags:
+  - EvapoTranspiration
+  - Modeling
+  - Learning Materials
+---
+
+What you can see is:
+------
+A [note](https://drive.google.com/file/d/1uOTeTV5BpLtSHfSRAwNmEfvFwldjtQsc/view?usp=drive_link) saved on my Google Drive. It is a self-learning materia for the Two-Source Energy Balance (TSEB) model, the (TSEB-)2T version. "2T" means the canopy and soil temperatures, and they can be obtained by using high-resolution thermal and spectral sensors equipped on the small unmanned aerial vehicles (sUAV). TSEB-PT is not explained here.<br>
+You can see hwo the latent heat flux (evapotranspiration) was addressed by the TSEB-2T model by go through all the formulas. A diagram and the meaning of terms were provided for better understand this remote-sensing based evapotranspiration model.
+
+For errors, etc.
+------
+Please contact to RuiGao@UCMerced.edu, and thanks for your attention and help.
