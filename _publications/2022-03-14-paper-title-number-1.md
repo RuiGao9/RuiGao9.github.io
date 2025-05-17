@@ -2,9 +2,9 @@
 title: "LAI estimation across California vineyards using sUAS multi-seasonal multi-spectral, thermal, and elevation inforamtion and machine learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-03-14-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-09-01
+date: 2022-03-14
 venue: 'Irrigation Science'
 slidesurl: 'https://link.springer.com/article/10.1007/s00271-022-00776-0'
 paperurl: 'https://link.springer.com/article/10.1007/s00271-022-00776-0'
