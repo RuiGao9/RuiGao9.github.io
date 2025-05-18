@@ -3,12 +3,12 @@ title: "LAI estimation across California vineyards using sUAS multi-seasonal mul
 collection: publications
 category: manuscripts
 permalink: /publication/2022-03-14-paper-title-number-2
-excerpt: 'Using high-resolution multi-spectral, thermal, and digital elevation model data for grape vine leaf area index estimation through machine learning models.'
+excerpt: 'One sentence to summary this paper: This study presents a machine learning-based approach using high-resolution sUAS data to accurately and efficiently estimate leaf area index (LAI) in vineyards across seasons, enhancing our ability to model crop energy balance and evapotranspiration dynamics for precision agriculture.'
 date: 2022-03-14
 venue: 'Irrigation Science'
-slidesurl: 'https://link.springer.com/article/10.1007/s00271-022-00776-0'
+# slidesurl: 'https://link.springer.com/article/10.1007/s00271-022-00776-0'
 paperurl: 'https://link.springer.com/article/10.1007/s00271-022-00776-0'
-bibtexurl: '@article{gao2022lai,
+# bibtexurl: '@article{gao2022lai,
   title={LAI estimation across California vineyards using sUAS multi-seasonal multi-spectral, thermal, and elevation information and machine learning},
   author={Gao, Rui and Torres-Rua, Alfonso F and Aboutalebi, Mahyar and White, William A and Anderson, Martha and Kustas, William P and Agam, Nurit and Alsina, Maria Mar and Alfieri, Joseph and Hipps, Lawrence and others},
   journal={Irrigation Science},
