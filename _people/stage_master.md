@@ -1,7 +1,20 @@
 ---
 title: "Stage - Master's Degree"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: people
+type: "Graduated Course"
+permalink: /people/stage_master
+venue: "Xinjiang Agricultural University, CEE Department"
+date: 2014-01-01
+location: "Urumqi, CHN"
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
