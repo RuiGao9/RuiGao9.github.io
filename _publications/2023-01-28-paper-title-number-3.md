@@ -2,7 +2,7 @@
 title: "ET partitioning assessment using the TSEB model and sUAS information across california central valley vineyards"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-01-28-paper-title-number-2
+permalink: /publication/2023-01-28-paper-title-number-3
 excerpt: 'EvapoTranspiration partitioning using Two-Source Energy Balance model based on small Unmanned Aerial System (sUAS) data.'
 date: 2023-01-28
 venue: 'Remote Sensing'
