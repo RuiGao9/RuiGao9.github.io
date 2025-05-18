@@ -2,7 +2,7 @@
 title: "LAI estimation across California vineyards using sUAS multi-seasonal multi-spectral, thermal, and elevation inforamtion and machine learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-03-14-paper-title-number-1
+permalink: /publication/2022-03-14-paper-title-number-2
 excerpt: 'Using high-resolution multi-spectral, thermal, and digital elevation model data for grape vine leaf area index estimation through machine learning models.'
 date: 2022-03-14
 venue: 'Irrigation Science'
