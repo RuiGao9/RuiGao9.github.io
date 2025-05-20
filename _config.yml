@@ -330,7 +330,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _projects
   - scope:
       path: ""
@@ -339,7 +339,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
+      toc: true
   # _publications
   - scope:
       path: ""
@@ -363,7 +364,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
   # _collaborations
@@ -371,7 +372,7 @@ defaults:
       path: ""
       type: collaborations
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
