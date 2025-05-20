@@ -227,9 +227,10 @@ kramdown:
 #     permalink: /:collection/:path/
 
 collections:
+  
   people:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:people/:path/
   projects:
     output: true
     permalink: /:collection/:path/
