@@ -227,7 +227,7 @@ collections:
     permalink: /:collection/:path/
   people:
     output: true
-    permalink: /people/:name/
+    permalink: /people/:path/
 
 # collections:
 #   people:
