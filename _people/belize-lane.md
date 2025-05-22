@@ -4,7 +4,7 @@ role: "Associate Professor"
 affiliation: "Utah State University"
 # email: "ruigao@ucmerced.edu"
 group: "PhD"
-image: /images/Professional_GS.jpg
+# image: /images/Professional_GS.jpg
 summary: "Committee member for Rui's Ph.D. program."
 ---
 

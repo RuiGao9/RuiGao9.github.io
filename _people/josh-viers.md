@@ -4,7 +4,7 @@ role: "Professor"
 affiliation: "University of California Merced"
 # email: "ruigao@ucmerced.edu"
 group: "Collaborators"
-image: /images/Professional_GS.jpg
+# image: /images/Professional_GS.jpg
 summary: "Collaborators"
 ---
 
