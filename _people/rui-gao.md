@@ -1,5 +1,5 @@
 ---
-# title: "Rui Gao"
+title: "Rui Gao"
 role: "Principal Investigator"
 affiliation: "University of California, Merced"
 # email: "ruigao@ucmerced.edu"
