@@ -2,7 +2,7 @@
 title: "Rui Gao"
 role: "Principal Investigator"
 affiliation: "University of California, Merced"
-email: "ruigao@ucmerced.edu"
+# email: "ruigao@ucmerced.edu"
 group: "Lab"
 image: /images/Professional_GS.jpg
 summary: "Postdoctoral Scholar with expertise in crop water use, remote sensing, and AI-driven modeling."
