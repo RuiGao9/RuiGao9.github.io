@@ -15,7 +15,8 @@ author_profile: true
       <h3>{{ post.title }}</h3>
       <p><strong>{{ post.role }}</strong> – {{ post.affiliation }}</p>
       {% if post.image %}
-        <img src="{{ '/images/' | append: post.image }}" alt="{{ post.title }}" width="150" style="float:left; margin: 0 15px 15px 0;" />
+        <!-- <img src="{{ '/images/' | append: post.image }}" alt="{{ post.title }}" width="150" style="float:left; margin: 0 15px 15px 0;" /> -->
+        <img src="{{ '/images/' | append: post.image }}" alt="{{ post.title }}" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; margin-bottom: 10px;">
       {% endif %}
       <p>{{ post.content | markdownify }}</p>
       <ul>
@@ -34,7 +35,8 @@ author_profile: true
       <h3>{{ post.title }}</h3>
       <p><strong>{{ post.role }}</strong> – {{ post.affiliation }}</p>
       {% if post.image %}
-        <img src="{{ '/images/' | append: post.image }}" alt="{{ post.title }}" width="150" style="float:left; margin: 0 15px 15px 0;" />
+        <!-- <img src="{{ '/images/' | append: post.image }}" alt="{{ post.title }}" width="150" style="float:left; margin: 0 15px 15px 0;" /> -->
+         <img src="{{ '/images/' | append: post.image }}" alt="{{ post.title }}" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; margin-bottom: 10px;">
       {% endif %}
       <p>{{ post.content | markdownify }}</p>
       <ul>
@@ -53,7 +55,8 @@ author_profile: true
       <h3>{{ post.title }}</h3>
       <p><strong>{{ post.role }}</strong> – {{ post.affiliation }}</p>
       {% if post.image %}
-        <img src="{{ '/images/' | append: post.image }}" alt="{{ post.title }}" width="150" style="float:left; margin: 0 15px 15px 0;" />
+        <!-- <img src="{{ '/images/' | append: post.image }}" alt="{{ post.title }}" width="150" style="float:left; margin: 0 15px 15px 0;" /> -->
+         <img src="{{ '/images/' | append: post.image }}" alt="{{ post.title }}" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; margin-bottom: 10px;">
       {% endif %}
       <p>{{ post.content | markdownify }}</p>
       <ul>
