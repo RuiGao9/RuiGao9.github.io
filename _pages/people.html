@@ -1,0 +1,37 @@
+---
+layout: archive
+title: "People"
+permalink: /people/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2>Rui Gao</h2>
+<hr />
+
+{% for post in site.people reversed %}
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  {% if post.summary %}
+    <p>{{ post.summary }}</p>
+  {% endif %}
+{% endfor %}
+
+<h2>Ph.D. Program Committee Members</h2>
+<hr />
+{% for post in site.people reversed %}
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  {% if post.summary %}
+    <p>{{ post.summary }}</p>
+  {% endif %}
+{% endfor %}
+
+<h2>Master's Degree Program Mentors and Supervisors</h2>
+<hr />
+{% for post in site.people reversed %}
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  {% if post.summary %}
+    <p>{{ post.summary }}</p>
+  {% endif %}
+{% endfor %}
+
