@@ -14,7 +14,7 @@ summary: "Committee member for Rui's Ph.D. program."
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
   <div>
-    <p>Dr. <a href="https://www.ars.usda.gov/northeast-area/beltsville-md-barc/beltsville-agricultural-research-center/hydrology-and-remote-sensing-laboratory/people/william-kustas/" target="_blank">William P. Kustas</a> is a hydrologiest in USDA-ARS.</p>
+    <p>Dr. <a href="https://www.ars.usda.gov/northeast-area/beltsville-md-barc/beltsville-agricultural-research-center/hydrology-and-remote-sensing-laboratory/people/william-kustas/" target="_blank">William P. Kustas</a><br>is a hydrologiest in USDA-ARS.</p>
   </div>
 
 </div>

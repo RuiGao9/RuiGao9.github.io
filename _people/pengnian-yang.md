@@ -14,7 +14,7 @@ summary: "The main mentor and supervisor for Rui's master-degree program."
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
   <div>
-    <p>Dr. <a href="https://www.researchgate.net/profile/Pengnian-Yang" target="_blank">Pengnian Yang</a> is a full professor at Xinjiang Agricultural University.</p>
+    <p>Dr. <a href="https://www.researchgate.net/profile/Pengnian-Yang" target="_blank">Pengnian Yang</a><br>is a full professor at Xinjiang Agricultural University.</p>
   </div>
 
 </div>

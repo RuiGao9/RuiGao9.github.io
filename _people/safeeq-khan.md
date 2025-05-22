@@ -14,7 +14,7 @@ summary: "Collaborators"
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
   <div>
-    <p>Dr. <a href="https://ecohydrology.ucmerced.edu/" target="_blank">Safeeq Khan</a> is an Associate Professor of Civil and Environmental Engineering at University of California Merced.</p>
+    <p>Dr. <a href="https://ecohydrology.ucmerced.edu/" target="_blank">Safeeq Khan</a><br>is an Associate Professor of Civil and Environmental Engineering at University of California Merced.</p>
   </div>
 
 </div>

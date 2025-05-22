@@ -14,7 +14,7 @@ summary: "Committee member for Rui's Ph.D. program."
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
   <div>
-    <p>Dr. <a href="https://engineering.usu.edu/cee/people/faculty/barker-burdette" target="_blank">Burdette Barker</a> is an assistant professor at Utah State University.</p>
+    <p>Dr. <a href="https://engineering.usu.edu/cee/people/faculty/barker-burdette" target="_blank">Burdette Barker</a><br>is an assistant professor at Utah State University.</p>
   </div>
 
 </div>
