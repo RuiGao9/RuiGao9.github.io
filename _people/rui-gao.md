@@ -8,26 +8,19 @@ group: "Lab"
 summary: "Postdoctoral Scholar with expertise in crop water use, remote sensing, and AI-driven modeling."
 ---
 
-<!-- <img src="/images/Professional_GS.JPG" alt="Rui Gao" width="150"> -->
-<img src="/images/Professional_GS.JPG" alt="Rui Gao" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+<!-- <img src="/images/Professional_GS.JPG" alt="Rui Gao" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
 Dr. Rui Gao is the founder and principal investigator of the GR Lab. His research focuses on vineyard water stress monitoring using high-resolution UAV imagery, thermal imaging, and machine learning. <br>
-He has developed innovative methods for estimating evapotranspiration and leaf water potential by integrating remote sensing data and meteorological inputs. Dr. Gao is passionate about advancing agricultural water management through data-driven solutions and interdisciplinary collaboration.
+He has developed innovative methods for estimating evapotranspiration and leaf water potential by integrating remote sensing data and meteorological inputs. Dr. Gao is passionate about advancing agricultural water management through data-driven solutions and interdisciplinary collaboration. -->
 
-<!-- ---
-title: "Rui Gao"
-position: "Postdoctoral Researcher"
-image: /images/Professional_GS.jpg
-layout: archive
-permalink: /people/rui-gao/
-author_profile: true
-tags:
-  - Drainage
-  - Image Processing
-  - Signal Processing
-  - ArcMap
-  - ArcGIS-Pro
-  - Python
-  - Matlab
----
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
 
-Rui Gao is focused on remote sensing and water management in California vineyards. -->
+  <img src="/images/Professional_GS.JPG" alt="Rui Gao"
+       style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
+
+  <div>
+    <p><strong>Dr. Rui Gao</strong> is the founder and principal investigator of the GR Lab. His research focuses on vineyard water stress monitoring using high-resolution UAV imagery, thermal imaging, and machine learning.</p>
+
+    <p>He has developed innovative methods for estimating evapotranspiration and leaf water potential by integrating remote sensing data and meteorological inputs. Dr. Gao is passionate about advancing agricultural water management through data-driven solutions and interdisciplinary collaboration.</p>
+  </div>
+
+</div>
