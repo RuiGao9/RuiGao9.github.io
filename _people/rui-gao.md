@@ -8,7 +8,7 @@ image: /images/Professional_GS.JPG
 summary: "Postdoctoral Scholar with expertise in crop water use, remote sensing, and AI-driven modeling."
 ---
 
-<!-- <img src="/images/rui-gao.jpg" alt="Rui Gao" width="150"> -->
+<img src="/images/Professional_GS.JPG" alt="Rui Gao" width="150">
 Dr. Rui Gao is the founder and principal investigator of the GR Lab. His research focuses on vineyard water stress monitoring using high-resolution UAV imagery, thermal imaging, and machine learning. <br>
 He has developed innovative methods for estimating evapotranspiration and leaf water potential by integrating remote sensing data and meteorological inputs. Dr. Gao is passionate about advancing agricultural water management through data-driven solutions and interdisciplinary collaboration.
 
