@@ -1,5 +1,5 @@
 ---
-title: "Zhenxia Mu (穆振侠)"
+title: "Pengnian Yang (杨鹏年)"
 role: "Principal Investigator"
 affiliation: "Xinjiang Agricultural University"
 # email: "ruigao@ucmerced.edu"
@@ -8,4 +8,4 @@ image: /images/Professional_GS.jpg
 summary: "The main mentor and supervisor for Rui's master-degree program."
 ---
 
-Dr. [Zhenxia Mu](https://chce.xjau.edu.cn/2023/0830/c3851a87999/page.htm) is a full professor at Xinjiang Agricultural University.
+Dr. [Pengnian Yang](https://www.researchgate.net/profile/Pengnian-Yang) is a full professor at Xinjiang Agricultural University.
