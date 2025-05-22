@@ -1,7 +1,7 @@
 ---
 title: 'Artificial Agricultural Drainage Ditch System(AADDS) Detection and Delination'
 date: 2018-08-23
-permalink: /projects/2018/08/project1/
+permalink: /projects/project1/
 tags:
   - Drainage
   - Image Processing
