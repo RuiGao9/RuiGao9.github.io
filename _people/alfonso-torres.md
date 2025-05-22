@@ -1,6 +1,6 @@
 ---
 title: "Alfonso Torres-Rua"
-role: "Principal Investigator"
+role: "Associate Professor"
 affiliation: "University of California, Merced"
 # email: "ruigao@ucmerced.edu"
 group: "PhD"

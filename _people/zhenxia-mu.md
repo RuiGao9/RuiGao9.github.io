@@ -1,6 +1,6 @@
 ---
 title: "Zhenxia Mu (穆振侠)"
-role: "Principal Investigator"
+role: "Professor"
 affiliation: "Xinjiang Agricultural University"
 # email: "ruigao@ucmerced.edu"
 group: "Masters"

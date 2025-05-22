@@ -1,6 +1,6 @@
 ---
 title: "Pengnian Yang (杨鹏年)"
-role: "Principal Investigator"
+role: "Professor"
 affiliation: "Xinjiang Agricultural University"
 # email: "ruigao@ucmerced.edu"
 group: "Masters"
