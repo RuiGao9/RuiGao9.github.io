@@ -27,6 +27,26 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<h2>Rui's Collaborators</h2>
+<hr />
+{% for post in site.people reversed %}
+  {% if post.group == "Collaborators" %}
+    <div style="margin-bottom: 2rem;">
+      <h3>{{ post.title }}</h3>
+      <p><strong>{{ post.role }}</strong> – {{ post.affiliation }}</p>
+      {% if post.image %}
+        <!-- <img src="{{ '/images/' | append: post.image }}" alt="{{ post.title }}" width="150" style="float:left; margin: 0 15px 15px 0;" /> -->
+        <img src="{{ '/images/' | append: post.image }}" alt="{{ post.title }}" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; margin-bottom: 10px;">
+      {% endif %}
+      <p>{{ post.content | markdownify }}</p>
+      <ul>
+        {% if post.email %}<li>Email: <a href="mailto:{{ post.email }}">{{ post.email }}</a></li>{% endif %}
+      </ul>
+      <div style="clear: both;"></div>
+    </div>
+  {% endif %}
+{% endfor %}
+
 <h2>Rui's Ph.D. Program Committee Members</h2>
 <hr />
 {% for post in site.people reversed %}
@@ -66,41 +86,3 @@ author_profile: true
     </div>
   {% endif %}
 {% endfor %}
-
-<!-- ---
-layout: archive
-title: "People"
-permalink: /people/
-author_profile: true
----
-
-{% include base_path %}
-
-<h2>Rui Gao</h2>
-<hr />
-
-{% for post in site.people reversed %}
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  {% if post.summary %}
-    <p>{{ post.summary }}</p>
-  {% endif %}
-{% endfor %}
-
-<h2>Ph.D. Program Committee Members</h2>
-<hr />
-{% for post in site.people reversed %}
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  {% if post.summary %}
-    <p>{{ post.summary }}</p>
-  {% endif %}
-{% endfor %}
-
-<h2>Master's Degree Program Mentors and Supervisors</h2>
-<hr />
-{% for post in site.people reversed %}
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  {% if post.summary %}
-    <p>{{ post.summary }}</p>
-  {% endif %}
-{% endfor %}
- -->
