@@ -1,6 +1,6 @@
 ---
-title: "Alfonso Torres-Rua"
-role: "Associate Professor"
+title: "Mac McKee"
+role: "Professor"
 affiliation: "Utah State University"
 # email: "ruigao@ucmerced.edu"
 group: "PhD"
