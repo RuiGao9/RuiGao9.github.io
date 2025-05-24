@@ -16,6 +16,8 @@ redirect_from:
 
 <p>Rui started his Ph.D. program in January 2020 under Dr. [Alfonso Torres-Rua](https://engineering.usu.edu/cee/people/faculty/torres-alfonso)'s supervisor at [Utah Water Research Laboratory](https://uwrl.usu.edu/) (UWRL) in Utah State University (Logan main campus) and obtained his Ph.D. degree in August 2023.</p>
 <p>Rui's dissertation focused on utilizing high-resolution imagery from small unmanned aerial systems (sUAS), combined with eddy-covariance (EC) flux tower data and field labor measurements, to assess plant water status and stress in California vineyards. With a master's degree in hydrology emphasizing watershed-scale processes, he remains passionate about applying both physical and data-driven approaches to tackle real-world environmental challenges across different spatial scales. **With science and technology deeply fascinate him, it is the people behind them, their perspectives on the environment, agriculture, and sustainability, that inspire him the most.**</p>
+<p>读万卷书，行万里路。<br>
+This is a </p>
 
 Three Latest News
 ======
