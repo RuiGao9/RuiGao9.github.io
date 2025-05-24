@@ -15,7 +15,7 @@ summary: "The main mentor and supervisor for Rui's Ph.D. program."
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
   <div>
-    <p>Dr. <a href="https://engineering.usu.edu/cee/people/faculty/torres-alfonso" target="_blank">Alfonso Torres-Rua</a><br>Associate Professor @ CEE @ Utah State University.</p>
+    <p>Dr. <a href="https://engineering.usu.edu/cee/people/faculty/torres-alfonso" target="_blank">Alfonso Torres-Rua</a><br>Associate Professor in CEE Department at Utah State University.</p>
   </div>
 
 </div>

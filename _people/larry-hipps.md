@@ -14,7 +14,7 @@ summary: "Committee member for Rui's Ph.D. program."
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
   <div>
-    <p>Dr. <a href="https://caas.usu.edu/directory/hipps-lawrence" target="_blank">Lawrence Hipps</a><br>Professor @ Utah State University.</p>
+    <p>Dr. <a href="https://caas.usu.edu/directory/hipps-lawrence" target="_blank">Lawrence Hipps</a><br>Professor at Utah State University.</p>
   </div>
 
 </div>

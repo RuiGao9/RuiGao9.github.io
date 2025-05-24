@@ -14,7 +14,7 @@ summary: "Committee member for Rui's Ph.D. program."
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
   <div>
-    <p>Dr. <a href="https://uwrl.usu.edu/people/faculty/lane-belize" target="_blank">Belize Lane</a><br>Associate professor @ Utah State University.</p>
+    <p>Dr. <a href="https://uwrl.usu.edu/people/faculty/lane-belize" target="_blank">Belize Lane</a><br>Associate professor in CEE Department at Utah State University.</p>
   </div>
 
 </div>
