@@ -3,7 +3,7 @@ title: "Ruijie Zeng"
 role: "Associate Professor"
 affiliation: "Arizon State University"
 # email: "ruigao@ucmerced.edu"
-group: "PhD"
+group: "Other"
 # image: /images/Professional_GS.jpg
 summary: "Previous supervisor for Rui's Ph.D. program."
 ---
