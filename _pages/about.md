@@ -14,7 +14,7 @@ redirect_from:
 
 <h2>About Me.</h2>
 <p>
-  <img src="/images/Dissertation_Flyer_GR.png" alt="Ph.D. Defense" style="width: 250px; float: left; margin: 5px 5px 5px 5px;">
+  <img src="/images/GR-Master.png" alt="Ph.D. Defense" style="width: 250px; float: left; margin: 5px 5px 5px 5px;">
   As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.
 </p>
 <p>
