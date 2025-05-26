@@ -14,7 +14,7 @@ redirect_from:
     allowfullscreen></iframe>
 </div>
 
-<p> </p>
+<p></p>
 <p>
 <img src="/images/Dissertation_Flyer_GR.png" alt="Ph.D. Defense" style="width: 250px; float: left; margin: 5px 5px 5px 5px;">
 Rui started his Ph.D. program in January 2020 under Dr. <a href="https://engineering.usu.edu/cee/people/faculty/torres-alfonso" target="_blank">Alfonso Torres-Rua</a>'s supervisor at <a href="https://uwrl.usu.edu/" target="_blank">Utah Water Research Laboratory</a> (UWRL) in Utah State University (Logan main campus) and obtained his Ph.D. degree in August 2023.<br>
