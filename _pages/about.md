@@ -14,12 +14,13 @@ redirect_from:
     allowfullscreen></iframe>
 </div>
 
+<p> </p>
 <p>
-<img src="/images/Dissertation_Flyer_GR.png" alt="Ph.D. Defense" style="width: 150px; float: left; margin: 0 0 10px 15px;">
+<img src="/images/Dissertation_Flyer_GR.png" alt="Ph.D. Defense" style="width: 200px; float: left; margin: 5px 5px 5px 5px;">
 Rui started his Ph.D. program in January 2020 under Dr. <a href="https://engineering.usu.edu/cee/people/faculty/torres-alfonso" target="_blank">Alfonso Torres-Rua</a>'s supervisor at <a href="https://uwrl.usu.edu/" target="_blank">Utah Water Research Laboratory</a> (UWRL) in Utah State University (Logan main campus) and obtained his Ph.D. degree in August 2023.<br>
 Rui's dissertation focused on utilizing high-resolution imagery from small unmanned aerial systems (sUAS), combined with eddy-covariance (EC) flux tower data and field labor measurements, to assess plant water status and stress in California vineyards. With a master's degree in hydrology emphasizing watershed-scale processes, he remains passionate about applying both physical and data-driven approaches to tackle real-world environmental challenges across different spatial scales. <b>With science and technology deeply fascinate him, it is the people behind them, their perspectives on the environment, agriculture, and sustainability, that inspire him the most.</b></p>
 <p>
-  <img src="/images/Bicycle_Front_Page.pdf" alt="Cycling" style="width: 150px; float: right; margin: 0 0 10px 15px;">
+  <img src="/images/Bicycle_Front_Page.pdf" alt="Cycling" style="width: 150px; float: right; margin: 5px 5px 5px 5px;">
   Rui's dissertation focused on utilizing high-resolution imagery from small unmanned aerial systems (sUAS), combined with eddy-covariance (EC) flux tower data and field labor measurements, to assess plant water status and stress in California vineyards. With a master's degree in hydrology emphasizing watershed-scale processes, he remains passionate about applying both physical and data-driven approaches to tackle real-world environmental challenges across different spatial scales. With science and technology deeply fascinate him, it is the people behind them, their perspectives on the environment, agriculture, and sustainability, that inspire him the most.
 </p>
 
