@@ -14,7 +14,11 @@ redirect_from:
 
 <h2>About Me.</h2>
 <p>
+  <img src="/images/Dissertation_Flyer_GR.png" alt="Ph.D. Defense" style="width: 250px; float: left; margin: 5px 5px 5px 5px;">
   As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.
+</p>
+<p>
+  Series stories occured in his Ph.D. studying.
 </p>
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bhJ1rXVGAv0" 
@@ -22,6 +26,10 @@ redirect_from:
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen></iframe>
 </div>
+<p>
+  Things happened in the first year after Rui obtained his Ph.D. Degree.
+</p>
+
 
 <p></p>
 <p>
