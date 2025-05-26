@@ -13,6 +13,9 @@ redirect_from:
 </p>
 
 <h2>About Me.</h2>
+<p>
+  As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his stories.
+</p>
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bhJ1rXVGAv0" 
     title="YouTube video player" frameborder="0" 
