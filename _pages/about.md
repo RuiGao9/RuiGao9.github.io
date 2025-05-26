@@ -21,16 +21,19 @@ redirect_from:
 
 <p>
   <img src="/images/Bicycle_Front_Page.png" alt="College" style="width: 250px; float: right; margin: 5px 5px 5px 5px;">
-  Stories occured in Master's degree.
+  Stories occured in Master's degree.<br>
+  Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories. Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.<br>
 </p>
 
 <p>
   <img src="/images/GR-Master.JPG" alt="Master Degree" style="width: 300px; float: left; margin: 5px 5px 5px 5px;">
-  Stories occured in Master's degree.
+  Stories occured in Master's degree.<br>
+  Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories. Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.<br>
 </p>
 
 <p>
-  Series stories occured in his Ph.D. studying.
+  Series stories occured in his Ph.D. studying.<br>
+  Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories. Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.<br>
 </p>
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bhJ1rXVGAv0" 
