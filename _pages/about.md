@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<h2>Welcome to GR Lab!</h2>
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bhJ1rXVGAv0" 
     title="YouTube video player" frameborder="0" 
