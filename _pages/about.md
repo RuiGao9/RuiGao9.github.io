@@ -14,9 +14,20 @@ redirect_from:
 
 <h2>About Me.</h2>
 <p>
-  <img src="/images/GR-Master.JPG" alt="Hometown" style="width: 180px; float: left; margin: 5px 5px 5px 5px;">
+  <img src="/images/GR-Master.JPG" alt="Hometown" style="width: 300px; float: left; margin: 5px 5px 5px 5px;">
   As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.
 </p>
+
+<p>
+  <img src="/images/Bicycle_Front_Page.png" alt="College" style="width: 250px; float: right; margin: 5px 5px 5px 5px;">
+  Stories occured in Master's degree.
+</p>
+
+<p>
+  <img src="/images/GR-Master.JPG" alt="Master Degree" style="width: 300px; float: left; margin: 5px 5px 5px 5px;">
+  Stories occured in Master's degree.
+</p>
+
 <p>
   Series stories occured in his Ph.D. studying.
 </p>
