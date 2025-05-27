@@ -15,7 +15,7 @@ redirect_from:
 <h2>About Me.</h2>
 <p>
   <img src="/images/GR-Hometown.jpg" alt="Hometown" style="width: 350px; float: right; margin: 5px 5px 5px 5px;">
-  I was born in a small town where people can drive to the border between China and Kazakhstan with ~80 miles. My family moved three times in the same area, and the second spot where it had around 50 families leaved a deep memory in my mind. That community spoken two languages and maintained a rich blend of cultural traditions. You may feel how beautiful it is by seeing the picture here. I introduced this peaceful place to all my friends who visited me.<br>
+  I was born in a small town where people can drive to the border between China and Kazakhstan with ~80 miles. My family moved three times in the same area, and the second spot where it had around 50 families leaved a deep memory in my mind. That community spoken two languages and maintained a rich blend of cultural traditions. You may feel how beautiful it is by seeing the picture here. I introduced this peaceful place to all my friends who visited me, and I would love to introduce this beautiful place to more people.<br>
   As the first person in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.<br>
 </p>
 
