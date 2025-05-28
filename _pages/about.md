@@ -14,13 +14,13 @@ redirect_from:
 
 <h2>About Me.</h2>
 <p>
-  <img src="/images/GR-Hometown.jpg" alt="Hometown" style="width: 350px; float: right; margin: 5px 5px 5px 10px;">
+  <img src="/images/GR-Hometown.jpg" alt="Hometown" style="width: 400px; float: right; margin: 5px 5px 5px 10px;">
   I was born in a small town where people can drive to the border between China and Kazakhstan with ~80 miles. My family moved three times in the same area, and the second spot where it had around 50 families leaved a deep memory in my mind. That community spoken two languages and maintained a rich blend of cultural traditions. You may feel how beautiful it is by seeing the picture here. I introduced this peaceful place to all my friends who visited me, and I would love to introduce this beautiful place to more people.<br>
   As the first person in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.<br>
 </p>
 
 <p>
-  <img src="/images/GR-Bachelor-1.JPG" alt="College" style="width: 300px; float: left; margin: 5px 10px 5px 5px;">
+  <img src="/images/GR-Bachelor-1.JPG" alt="College" style="width: 400px; float: left; margin: 5px 10px 5px 5px;">
   Stories occured in Master's degree.<br>
   Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories. Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.<br>
 </p>
