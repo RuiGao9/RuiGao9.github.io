@@ -26,13 +26,13 @@ redirect_from:
 </p>
 
 <p>
-  <img src="/images/GR-Master.JPG" alt="Master Degree" style="width: 300px; float: right; margin: 5px 5px 5px 10px;">
+  <img src="/images/GR-Master.JPG" alt="Master Degree" style="width: 400px; float: right; margin: 5px 5px 5px 10px;">
   Stories occured in Master's degree.<br>
   Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories. Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.<br>
 </p>
 
 <p>
-  <img src="/images/GR-PhD.jpg" alt="PhD Degree" style="width: 300px; float: left; margin: 5px 10px 5px 5px;">
+  <img src="/images/GR-PhD.jpg" alt="PhD Degree" style="width: 400px; float: left; margin: 5px 10px 5px 5px;">
   Series stories occured in his Ph.D. studying.<br>
   Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories. Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.<br>
 </p>
