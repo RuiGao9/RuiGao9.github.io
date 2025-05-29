@@ -10,7 +10,7 @@ summary: "Collaborators"
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
 
-  <img src="/images/josh-viers.jpg" alt="Safeeq Khan"
+  <img src="/images/People/josh-viers.jpg" alt="Safeeq Khan"
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
   <div>

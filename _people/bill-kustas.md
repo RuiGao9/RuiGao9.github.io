@@ -10,7 +10,7 @@ summary: "Committee member for Rui's Ph.D. program."
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
 
-  <img src="/images/bill-kustas.jpg" alt="William P. Kustas"
+  <img src="/images/People/bill-kustas.jpg" alt="William P. Kustas"
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
   <div>

@@ -11,7 +11,7 @@ summary: "The main mentor and supervisor for Rui's Ph.D. program."
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
 
-  <img src="/images/torres-alfonso.jpg" alt="Alfonso Torres"
+  <img src="/images/People/torres-alfonso.jpg" alt="Alfonso Torres"
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
   <div>

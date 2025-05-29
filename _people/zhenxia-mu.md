@@ -10,7 +10,7 @@ summary: "The main mentor and supervisor for Rui's master-degree program."
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
 
-  <img src="/images/zhenxia-mu.jpg" alt="Zhenxia Mu"
+  <img src="/images/People/zhenxia-mu.jpg" alt="Zhenxia Mu"
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
   <div>
