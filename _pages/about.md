@@ -51,7 +51,6 @@ redirect_from:
   Things happened in the first year after Rui obtained his Ph.D. Degree.
 </p>
 
-
 <p></p>
 <p>
 <img src="/images/AboutMe/Dissertation_Flyer_GR.png" alt="Ph.D. Defense" style="width: 250px; float: left; margin: 5px 10px 5px 5px;">
