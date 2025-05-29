@@ -14,7 +14,7 @@ redirect_from:
 
 <h2>About Me.</h2>
 <p>
-  <img src="/images/GR-Hometown.jpg" alt="Hometown" style="width: 400px; float: right; margin: 5px 5px 5px 10px;">
+  <img src="/images/AboutMe/GR-Hometown.jpg" alt="Hometown" style="width: 400px; float: right; margin: 5px 5px 5px 10px;">
   I was born in a small town less than 80 miles by road from the border between China and Kazakhstan. My family relocated three times within the same region, but the second place we lived—where about 50 families resided—left the most lasting impression on me. That tight-knit community, where two languages were spoken, was rich in cultural traditions and offered a truly unique and beautiful way of life. You can get a glimpse of its charm from the picture here. I introduced this peaceful place to every friend who visited me, and I’m always eager to share its beauty with more people.<br>
   Imagine this: it’s around 6 a.m., and your mother gently wakes you. Together, you follow the horses and oxen to the open pastures of a breathtaking landscape. Under the soft warmth of the rising sun, you breathe in the crisp morning air, listen to the animals rhythmically chewing fresh grass, and watch them drink from clear, spring-fed streams. Can you imagine how special it would be to share such a moment with your own children?<br>
   The oxen had a mischievous streak. Sometimes, instead of taking the long route home before sunset, they would leap into the river to save time and energy. Even the sharp whistles from the wrangler trying to keep them from crossing couldn’t hold them back. Watching them plunge into the water and paddle determinedly to the other side was pure joy for me as a child—one of those small, unforgettable pleasures that made this place feel truly magical.<br>
@@ -22,19 +22,20 @@ redirect_from:
 </p>
 
 <p>
-  <img src="/images/GR-Bachelor-1.JPG" alt="College" style="width: 400px; float: left; margin: 5px 10px 5px 5px;">
+  <img src="/images/AboutMe/GR-Bachelor-1.JPG" alt="College" style="width: 400px; float: left; margin: 5px 10px 5px 5px;">
+  <img src="/images/AboutMe/GR-Bachelor.JPG" alt="College" style="width: 400px; float: left; margin: 5px 10px 5px 5px;">
   Stories occured in Master's degree.<br>
   Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories. Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.<br>
 </p>
 
 <p>
-  <img src="/images/GR-Master.JPG" alt="Master Degree" style="width: 400px; float: right; margin: 5px 5px 5px 10px;">
+  <img src="/images/AboutMe/GR-Master.JPG" alt="Master Degree" style="width: 400px; float: right; margin: 5px 5px 5px 10px;">
   Stories occured in Master's degree.<br>
   Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories. Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.<br>
 </p>
 
 <p>
-  <img src="/images/GR-PhD.jpg" alt="PhD Degree" style="width: 400px; float: left; margin: 5px 10px 5px 5px;">
+  <img src="/images/AboutMe/GR-PhD.jpg" alt="PhD Degree" style="width: 400px; float: left; margin: 5px 10px 5px 5px;">
   Series stories occured in his Ph.D. studying.<br>
   Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories. Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.<br>
 </p>
@@ -51,11 +52,11 @@ redirect_from:
 
 <p></p>
 <p>
-<img src="/images/Dissertation_Flyer_GR.png" alt="Ph.D. Defense" style="width: 250px; float: left; margin: 5px 10px 5px 5px;">
+<img src="/images/People/Dissertation_Flyer_GR.png" alt="Ph.D. Defense" style="width: 250px; float: left; margin: 5px 10px 5px 5px;">
 Rui started his Ph.D. program in January 2020 under Dr. <a href="https://engineering.usu.edu/cee/people/faculty/torres-alfonso" target="_blank">Alfonso Torres-Rua</a>'s supervisor at <a href="https://uwrl.usu.edu/" target="_blank">Utah Water Research Laboratory</a> (UWRL) in Utah State University (Logan main campus) and obtained his Ph.D. degree in August 2023.<br>
 Rui's dissertation focused on utilizing high-resolution imagery from small unmanned aerial systems (sUAS), combined with eddy-covariance (EC) flux tower data and field labor measurements, to assess plant water status and stress in California vineyards. With a master's degree in hydrology emphasizing watershed-scale processes, he remains passionate about applying both physical and data-driven approaches to tackle real-world environmental challenges across different spatial scales. <b>With science and technology deeply fascinate him, it is the people behind them, their perspectives on the environment, agriculture, and sustainability, that inspire him the most.</b></p>
 <p>
-  <img src="/images/Bicycle_Front_Page.png" alt="Cycling" style="width: 250px; float: right; margin: 5px 5px 5px 10px;">
+  <img src="/images/People/Bicycle_Front_Page.png" alt="Cycling" style="width: 250px; float: right; margin: 5px 5px 5px 10px;">
   Rui's dissertation focused on utilizing high-resolution imagery from small unmanned aerial systems (sUAS), combined with eddy-covariance (EC) flux tower data and field labor measurements, to assess plant water status and stress in California vineyards. With a master's degree in hydrology emphasizing watershed-scale processes, he remains passionate about applying both physical and data-driven approaches to tackle real-world environmental challenges across different spatial scales. With science and technology deeply fascinate him, it is the people behind them, their perspectives on the environment, agriculture, and sustainability, that inspire him the most.
 </p>
 
