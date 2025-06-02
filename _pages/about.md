@@ -23,8 +23,8 @@ redirect_from:
 
 <p>
   <img src="/images/AboutMe/GR-Bachelor.jpg" alt="College" style="width: 400px; float: left; margin: 5px 10px 5px 5px;">
-  Stories occured in Master's degree.<br>
-  Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories. Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.<br>
+  I was lucky to go to college instead of managing sheep in mountain areas or applying for ~40 acre farmland for cropping, which were the original plan by my father.<br>
+  In the college, I met five really friendly roommates.<br>
   <img src="/images/AboutMe/GR-Bachelor-1.JPG" alt="College" style="width: 400px; float: right; margin: 5px 10px 5px 5px;">
   Stories occured in Master's degree.<br>
   Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories. Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.<br>  
