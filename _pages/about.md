@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 <h2>About Me in 30 seconds</h2>
-
+Rui obtained his Ph.D. degree from Utah State University in 2023. His dissertation focused on utilizing high-resolution imagery from small unmanned aerial systems, combined with eddy-covariance flux tower data and field labor measurements, to assess plant water status and stress in California vineyards. With a master's degree in hydrology emphasizing watershed-scale processes, he remains passionate about applying both physical and data-driven approaches to tackle real-world environmental challenges across different spatial scales. <b>While science and technology deeply fascinate him, it is the people behind them, their perspectives on the environment, agriculture, and sustainability, that inspire him the most.</b>
 <h2>More About Me</h2>
 <p>
   <img src="/images/AboutMe/GR-Hometown.jpg" alt="Hometown" style="width: 400px; float: right; margin: 5px 5px 5px 10px;">
