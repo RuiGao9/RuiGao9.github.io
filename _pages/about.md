@@ -12,7 +12,9 @@ redirect_from:
   Rui is now working at <a href="https://ecohydrology.ucmerced.edu/" target="_blank">FEWS Lab</a> at University of California Merced as a postdoctoral scholar. With the support from local resouces, including his supervisors, he not only continues his interests in EvapoTranspiration (ET) estimation at different spatial scales but also extends his interests in drought, wildfire, air quality, etc.
 </p>
 
-<h2>About Me.</h2>
+<h2>About Me in 30 seconds</h2>
+
+<h2>More About Me</h2>
 <p>
   <img src="/images/AboutMe/GR-Hometown.jpg" alt="Hometown" style="width: 400px; float: right; margin: 5px 5px 5px 10px;">
   I was born in a small town less than 80 miles by road from the border between China and Kazakhstan. My family relocated three times within the same region, but the second place we lived—where about 50 families resided—left the most lasting impression on me. That tight-knit community, where two languages were spoken, was rich in cultural traditions and offered a truly unique and beautiful way of life. You can get a glimpse of its charm from the picture here. I introduced this peaceful place to every friend who visited me, and I’m always eager to share its beauty with more people.<br>
