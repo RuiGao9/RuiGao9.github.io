@@ -12,7 +12,7 @@ redirect_from:
   Rui is now working at <a href="https://ecohydrology.ucmerced.edu/" target="_blank">FEWS Lab</a> at University of California Merced as a postdoctoral scholar. With the support from local resouces, including his supervisors, he not only continues his interests in EvapoTranspiration (ET) estimation at different spatial scales but also extends his interests in drought, wildfire, air quality, etc.
 </p>
 
-<h2>About Me in 30 seconds</h2>
+<h2>About Me in 30 Seconds</h2>
 Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank">Utah State University</a> in 2023. His dissertation focused on utilizing high-resolution imagery from small unmanned aerial systems, combined with eddy-covariance flux tower data and field labor measurements, to assess plant water status and stress in California vineyards. With a master's degree in hydrology emphasizing watershed-scale processes at <a href="https://www.xjau.edu.cn/204/list.htm" target="_blank">Xinjiang Agricultural University</a>, he remains passionate about applying both physical and data-driven approaches to tackle real-world environmental challenges across different spatial scales. <b>While science and technology deeply fascinate him, it is the people behind them, their perspectives on the environment, agriculture, and sustainability, that inspire him the most.</b>
 <h2>More About Me</h2>
 <p>
