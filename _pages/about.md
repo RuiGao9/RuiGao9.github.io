@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<h2>Welcome to FEWS Lab at UC-Merced!<br>Also WELCOME to follow my research!</h2>
+<h2>Welcome to FEWS Lab at UC-Merced!<br>
+    Also WELCOME to follow my research!</h2>
 <p>
   Rui is now working at <a href="https://ecohydrology.ucmerced.edu/" target="_blank">FEWS Lab</a> at University of California Merced as a postdoctoral scholar. With the support from local resouces, including his supervisors, he not only continues his interests in EvapoTranspiration (ET) estimation at different spatial scales but also extends his interests in drought, wildfire, air quality, etc.
 </p>
