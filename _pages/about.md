@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Visitors Badge](https://Visitor-badge.laobi.icu/badge?page_id=RuiGao9.RuiGao9.github.io)
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.RuiGao9.github.io)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1RqJPnoYggKrULKly3n7fQcFqSUA8CTeP/view?usp=drive_link)
 
 <h2>Welcome to FEWS Lab at UC-Merced!<br>
