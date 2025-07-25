@@ -5,18 +5,23 @@ category: Research
 permalink: /projects/prj_3_eto/
 ---
 
-<h1>Eddy-Covariance Flux Trailer (ECFT<sup>+</sup>)</h1>
-This project is led by Dr. Safeeq Khan under the CEE department at University of California Merced. I am grateful for the chance to taking part in this ECFT<sup>+</sup> assembling project. I am also grateful for the funding support from the Secure Water Future (USDA NIFA # 2021-69012-35916) and Economic Development Administration Build Back Better Regional Challenge Farms-Food-Future Innovation Iniative (EDA #77907913).<br>
-This time, we are targeting at eddy-covariance flux trailer (ECFT<sup>+</sup>), not eddy-covariance flux tower (ECFT).
-
-<h2>ECFT<sup>+</sup> design</h2>
-<h3>Step 1 - Assembling a tralier</h3>
+<h2>Water resource management at different spatial scales</h2>
+<p>
+Moving to University of California Merced where I am closer to my Ph.D. research areas, I got more interesting feelings be a few scenarios that I can show you. <br>
+One is the hotest temperature I have felt so far is 40 Celsius in the summer. When walking in the concrete forest, this kind of cooking feeling is more obvious. Another interesting scenario is that we can easily see dust covering on the car after wash the car a few hours later.<br>
+After moving to the University of California, Merced—closer to the region where I conducted my Ph.D. research—I experienced several scenarios that left a strong impression on me.<br>
+One of the most striking was the extreme heat: the highest temperature I’ve felt so far reached 40°C during the summer. Walking through the urban landscape, surrounded by concrete, made the heat feel even more intense—almost like being cooked. <br>
+Another interesting observation is how quickly dust accumulates. Even just a few hours after washing a car, it's common to find a noticeable layer of dust already settling on it.
+</p>
+<!-- <h3>ECFT<sup>+</sup> design</h3>
+<p>Step 1 - Assembling a tralier<br>
 We have purchased a tralier online. For more details and stories, Dr. Safeeq Khan can tell you. <br>
 Dr. Khan and me assembled the trailer based on the manual. During the assembling, we found that this YouTube video is very helpful to build this <a href="https://www.youtube.com/watch?v=QL-F22P8uC8" target="_blank">Haul-Master 5*10 size trailer</a>. 
+</p> -->
 
-<h3>Step 2 - ECFT<sup>+</sup> basement design </h3>
-Our first design for the ECFT<sup>+</sup> looks like this picture.
-<img src="/images/projects/ECFT/ECFT_1.PNG" alt="Hometown" style="width: 400px; float: left; margin: 5px 5px 5px 10px;">
+<!-- <h3>Step 2 - ECFT<sup>+</sup> basement design </h3> -->
+<!-- Our first design for the ECFT<sup>+</sup> looks like this picture. -->
+<!-- <img src="/images/projects/ECFT/ECFT_1.PNG" alt="Hometown" style="width: 400px; float: left; margin: 5px 5px 5px 10px;"> -->
 
 <h2>Involved research teams</h2>
 - FEWS Lab
