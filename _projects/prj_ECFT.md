@@ -6,7 +6,7 @@ permalink: /projects/prj_ECFT/
 ---
 
 <h2>Eddy-Covariance Flux Trailer (ECFT<sup>+</sup>)</h2>
-This project is led by Dr. Safeeq Khan under the CEE department at University of California Merced. I am grateful for the chance to taking part in this ECFT' assembling project. I am also grateful for the funding support from the Secure Water Future (USDA NIFA # 2021-69012-35916) and Economic Development Administration Build Back Better Regional Challenge Farms-Food-Future Innovation Iniative (EDA #77907913).<br>
+This project is led by Dr. Safeeq Khan under the CEE department at University of California Merced. I am grateful for the chance to taking part in this ECFT<sup>+</sup> assembling project. I am also grateful for the funding support from the Secure Water Future (USDA NIFA # 2021-69012-35916) and Economic Development Administration Build Back Better Regional Challenge Farms-Food-Future Innovation Iniative (EDA #77907913).<br>
 This time, we are targeting at eddy-covariance flux trailer (ECFT<sup>+</sup>), not eddy-covariance flux tower (ECFT).
 
 
