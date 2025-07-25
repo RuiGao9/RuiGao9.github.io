@@ -12,12 +12,17 @@ This time, we are targeting at eddy-covariance flux trailer (ECFT<sup>+</sup>), 
 <h3>ECFT<sup>+</sup> design</h3>
 <p>Step 1 - Assembling a tralier<br>
 We have purchased a tralier online. For more details and stories, Dr. Safeeq Khan can tell you. <br>
-Dr. Khan and me assembled the trailer based on the manual. During the assembling, we found that this YouTube video is very helpful to build this <a href="https://www.youtube.com/watch?v=QL-F22P8uC8" target="_blank">Haul-Master 5*10 size trailer</a>. 
+Dr. Khan and me assembled the trailer based on the manual. During the assembling, we found that this YouTube video is very helpful to build this <a href="https://www.youtube.com/watch?v=QL-F22P8uC8" target="_blank">Haul-Master 5*10 size trailer</a>. <br>
+Dr. Khan suggested get the fully developed ECFT<sup>+</sup> layer by layer, which means assembling the trailer at first, then make a "concrete" basement, and then install all the sensors for monitoring.
 </p>
 
 <h3>Step 2 - ECFT<sup>+</sup> basement design </h3>
-Our first design for the ECFT<sup>+</sup> looks like this picture.
-<img src="/images/projects/ECFT/ECFT_1.PNG" alt="Hometown" style="width: 400px; float: left; margin: 5px 5px 5px 10px;">
+We totally have three big components that we need to put them on the trailer: tower, solar panel, and one box for battery and tools. Because of this, our first design for the ECFT<sup>+</sup> looks like this picture.<br>
+<img src="/images/projects/ECFT/ECFT_1.PNG" alt="ecft_1" style="width: 400px; float: left; margin: 5px 5px 5px 10px;">
+Dr. Khan spoke with Danny and received more refined suggestions, leading to a few upgrades we need to implement. One key improvement is making the solar panel rotatable, which would allow the trailer to be more adaptable and efficient in capturing solar energy. Another improvement is to install one more box on the trailer to increase capacity and support additional functionalities. Thus, we have this design.
+<img src="/images/projects/ECFT/ECFT_1.PNG" alt="ecft_2" style="width: 400px; float: right; margin: 5px 5px 5px 10px;">
+
+<h3>Step 3 - Installing sensors on the ECFT<sup>+</sup></h3>
 
 <h3>Involved research teams</h3>
 - FEWS Lab
