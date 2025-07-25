@@ -146,3 +146,4 @@ More info about configuring Academic Pages can be found in [the guide](https://a
       document.getElementById('visitor-count').innerText = res.value;
     });
 </script>
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.RuiGao9.github.io)<br>
