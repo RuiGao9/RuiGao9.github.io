@@ -17,7 +17,7 @@ Building the <a href="https://www.youtube.com/watch?v=QL-F22P8uC8" target="_blan
 Our first design for the ECFT<sup>+</sup> looks like this picture.
 <img src="/images/projects/ECFT/ECFT_1.PNG" alt="Hometown" style="width: 400px; float: left; margin: 5px 5px 5px 10px;">
 
-<h3>Involved research teams:</h3>
+<h3>Involved research teams</h3>
 - FEWS Lab
 - VICE Lab
 - GR Lab
