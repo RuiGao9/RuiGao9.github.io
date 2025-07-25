@@ -6,14 +6,9 @@ permalink: /projects/prj_3_eto/
 ---
 
 <h2>Water resource management at different spatial scales</h2>
-<p>
-Moving to University of California Merced where I am closer to my Ph.D. research areas, I got more interesting feelings be a few scenarios that I can show you. <br>
-One is the hotest temperature I have felt so far is 40 Celsius in the summer. When walking in the concrete forest, this kind of cooking feeling is more obvious. Another interesting scenario is that we can easily see dust covering on the car after wash the car a few hours later.<br>
-After moving to the University of California, Merced—closer to the region where I conducted my Ph.D. research—I experienced several scenarios that left a strong impression on me.<br>
-One of the most striking was the extreme heat: the highest temperature I’ve felt so far reached 40°C during the summer. Walking through the urban landscape, surrounded by concrete, made the heat feel even more intense—almost like being cooked. <br>
-Another interesting observation is how quickly dust accumulates. Even just a few hours after washing a car, it's common to find a noticeable layer of dust already settling on it.<br>
-From this perspective, I sincerely hope to contribute what I’ve learned to benefit the community—even if it’s just in a small way.
-</p>
+<p>After moving to the University of California, Merced—closer to the region where I conducted my Ph.D. research—I experienced several scenarios that left a strong impression on me.</p>
+<p>One of the most striking was the extreme heat: the highest temperature I’ve felt so far reached 40°C during the summer. Walking through the urban landscape, surrounded by concrete, made the heat feel even more intense—almost like being cooked. Another interesting observation is how quickly dust accumulates. Even just a few hours after washing a car, it's common to find a noticeable layer of dust already settling on it.</p>
+<p>From this perspective, I sincerely hope to contribute what I’ve learned to benefit the community—even if it’s just in a small way.</p>
 <!-- <h3>ECFT<sup>+</sup> design</h3>
 <p>Step 1 - Assembling a tralier<br>
 We have purchased a tralier online. For more details and stories, Dr. Safeeq Khan can tell you. <br>
