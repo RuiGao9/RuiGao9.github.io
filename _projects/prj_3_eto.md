@@ -2,7 +2,7 @@
 title: "Crop Reference EvapoTranspiration"
 date: 2024-10-20
 category: Research 
-permalink: /projects/prj_ETo/
+permalink: /projects/prj_3_eto/
 ---
 
 <h1>Eddy-Covariance Flux Trailer (ECFT<sup>+</sup>)</h1>

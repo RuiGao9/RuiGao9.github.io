@@ -2,7 +2,7 @@
 title: "Eddy Covariance Flux Trailer"
 date: 2025-07-20
 category: Ground Measurements
-permalink: /projects/prj_ECFT/
+permalink: /projects/prj_4_ecft/
 ---
 
 <h1>Eddy-Covariance Flux Trailer (ECFT<sup>+</sup>)</h1>
