@@ -14,5 +14,6 @@ This time, we are targeting at eddy-covariance flux trailer (ECFT<sup>+</sup>), 
 Building the <a href="https://www.youtube.com/watch?v=QL-F22P8uC8" target="_blank">Haul-Master 5*10 size trailer</a> from pieces.
 
 <h3>ECFT<sup>+</sup> design</h3>
+<img src="/images/projects/ECFT/ECFT_1.PNG" alt="Hometown" style="width: 400px; float: right; margin: 5px 5px 5px 10px;">
 
 <h3>Sponser:</h3>
