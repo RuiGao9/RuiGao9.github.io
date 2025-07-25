@@ -13,6 +13,6 @@ This time, we are targeting at eddy-covariance flux trailer (ECFT+), not eddy-co
 <h3> Assembling a tralier</h3>
 Building the <a href="https://www.youtube.com/watch?v=QL-F22P8uC8" target="_blank">Haul-Master 5*10 size trailer</a> from pieces.
 
-<h3>ECFT^+ design</h3>
+<h3>ECFT+ design</h3>
 
 <h3>Sponser:</h3>
