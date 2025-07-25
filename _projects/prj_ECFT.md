@@ -12,8 +12,9 @@ This time, we are targeting at eddy-covariance flux trailer (ECFT<sup>+</sup>), 
 <h3>ECFT<sup>+</sup> design</h3>
 <h4>Step 1 - Assembling a tralier</h4>
 We have purchased a tralier online. For more details and stories, Dr. Safeeq Khan can tell you. <br>
-Dr. Khan and me assembled the trailer based on the manual. During the assembling, we found that this YouTube video is very helpful to build this <a href="https://www.youtube.com/watch?v=QL-F22P8uC8" target="_blank">Haul-Master 5*10 size trailer</a>.
+Dr. Khan and me assembled the trailer based on the manual. During the assembling, we found that this YouTube video is very helpful to build this <a href="https://www.youtube.com/watch?v=QL-F22P8uC8" target="_blank">Haul-Master 5*10 size trailer</a>. 
 
+<h4>Step 2 - ECFT<sup>+</sup> basement design </h4>
 Our first design for the ECFT<sup>+</sup> looks like this picture.
 <img src="/images/projects/ECFT/ECFT_1.PNG" alt="Hometown" style="width: 400px; float: left; margin: 5px 5px 5px 10px;">
 
