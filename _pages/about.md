@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.RuiGao9.github.io)<br>
 
 <h2>Welcome to FEWS Lab at UC-Merced!<br>
     Also WELCOME to follow my research!</h2>
@@ -131,19 +132,4 @@ Rui's GitHub personal website is built based on [Michael Rose's work](https://ac
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
-<!-- Visitor Counter -->
-<!-- <p>
-  <strong>Visitors:</strong><br>
-  <img src="https://profile-counter.glitch.me/ruigao9.github.io/count.svg" alt="Visitor Count">
-</p> -->
-<!-- Visitor Counter -->
-<p><strong>Visitor Count:</strong> <span id="visitor-count">loading...</span></p>
 
-<script>
-  fetch('https://api.countapi.xyz/update/ruigao9.github.io/homepage/?amount=1')
-    .then(res => res.json())
-    .then(res => {
-      document.getElementById('visitor-count').innerText = res.value;
-    });
-</script>
-![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.RuiGao9.github.io)<br>
