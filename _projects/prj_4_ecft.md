@@ -19,8 +19,12 @@ Dr. Khan suggested get the fully developed ECFT<sup>+</sup> layer by layer, whic
 <h3>Step 2 - ECFT<sup>+</sup> basement design </h3>
 We totally have three big components that we need to put them on the trailer: tower, solar panel, and one box for battery and tools. Because of this, our first design for the ECFT<sup>+</sup> looks like this picture.<br>
 <img src="/images/projects/ECFT/ECFT_1.PNG" alt="ecft_1" style="width: 400px; float: left; margin: 5px 5px 5px 10px;">
+
 Dr. Khan spoke with Danny and received more refined suggestions, leading to a few upgrades we need to implement. One key improvement is making the solar panel rotatable, which would allow the trailer to be more adaptable and efficient in capturing solar energy. Another improvement is to install one more box on the trailer to increase capacity and support additional functionalities. Thus, we have this design.
 <img src="/images/projects/ECFT/ECFT_1.PNG" alt="ecft_2" style="width: 400px; float: right; margin: 5px 5px 5px 10px;">
+
+After our hard hand work, we finally get this.
+<img src="/images/projects/ECFT/ECFT_1.PNG" alt="ecft_3" style="width: 400px; float: left; margin: 5px 5px 5px 10px;">
 
 <h3>Step 3 - Installing sensors on the ECFT<sup>+</sup></h3>
 
