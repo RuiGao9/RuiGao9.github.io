@@ -1,5 +1,5 @@
 ---
-title: "sUAS Based Grapevine Water Use Research"
+title: "2020 sUAS Based Grapevine Water Use Research"
 date: 2020-01-01
 category: sUAS
 permalink: /projects/prj_2_suas/

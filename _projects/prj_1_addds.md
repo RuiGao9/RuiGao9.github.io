@@ -1,6 +1,6 @@
 ---
-title: 'Artificial Agricultural Drainage Ditch System (AADDS) Detection and Delination'
-date: 2020-12-31
+title: '2018 Artificial Agricultural Drainage Ditch System (AADDS) Detection and Delination'
+date: 2018-07-24
 category: Geology
 permalink: /projects/prj_1_addds/
 tags:

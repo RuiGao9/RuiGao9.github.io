@@ -1,5 +1,5 @@
 ---
-title: "Eddy Covariance Flux Trailer"
+title: "2025 Eddy Covariance Flux Trailer"
 date: 2025-07-20
 category: Ground Measurements
 permalink: /projects/prj_4_ecft/
@@ -10,11 +10,10 @@ This project is led by Dr. Safeeq Khan under the CEE department at University of
 This time, we are targeting at eddy-covariance flux trailer (ECFT<sup>+</sup>), not eddy-covariance flux tower (ECFT).
 
 <h3>ECFT<sup>+</sup> design</h3>
-<p>Step 1 - Assembling a tralier<br>
+Step 1 - Assembling a tralier<br>
 We have purchased a tralier online. For more details and stories, Dr. Safeeq Khan can tell you. <br>
 Dr. Khan and me assembled the trailer based on the manual. During the assembling, we found that this YouTube video is very helpful to build this <a href="https://www.youtube.com/watch?v=QL-F22P8uC8" target="_blank">Haul-Master 5*10 size trailer</a>. <br>
 Dr. Khan suggested get the fully developed ECFT<sup>+</sup> layer by layer, which means assembling the trailer at first, then make a "concrete" basement, and then install all the sensors for monitoring.
-</p>
 
 <h3>Step 2 - ECFT<sup>+</sup> basement design </h3>
 We totally have three big components that we need to put them on the trailer: tower, solar panel, and one box for battery and tools. Because of this, our first design for the ECFT<sup>+</sup> looks like this picture.<br>
