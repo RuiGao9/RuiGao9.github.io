@@ -11,7 +11,7 @@ permalink: /projects/prj_3_eto/
 <p>From this perspective, I sincerely hope to contribute what I’ve learned to benefit the community—even if it’s just in a small way.</p>
 
 <h2>Water resource management at different spatial scales</h2>
-
+After several discussions with Dr. Khan in his office, we became genuinely interested in exploring a key question: what would ET forecasting look like using publicly available gridded datasets?
 <!-- <h3>ECFT<sup>+</sup> design</h3>
 <p>Step 1 - Assembling a tralier<br>
 We have purchased a tralier online. For more details and stories, Dr. Safeeq Khan can tell you. <br>
