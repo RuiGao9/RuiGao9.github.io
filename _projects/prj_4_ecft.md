@@ -35,13 +35,9 @@ This is a very interesting question, and it takes a day for me to build a model 
 Meanwhile, given we have the Campbell Scientific EC-Flux tower there, we also considered to put the IRT sensor into that system, too. But this one is not tested so far.
 
 Understanding land surface temperature provides valuable insights that can enhance both fieldwork and our research outcomes. With support from the project, Dr. Khan ordered an Apogee SI-431 infrared radiometer (ultra-narrow, research-grade) specifically for my project.
-
 Once I received the sensor, our first goal was to connect it to a CR1000 data logger—this was our initial step.
-
 Given that we already have a LI-COR LI-710 ET sensor operating in the field, we considered integrating the IRT sensor into the same system. In the lab, I conducted a test, as demonstrated in [this YouTube video](https://www.youtube.com/watch?v=2qGr7isubBE).
-
 Following the test, a key question emerged: *What does the sensor’s footprint look like, and how can we determine it?* This led to a day-long effort to develop a model—now published on [Zenodo](https://doi.10.5281/zenodo.15871684)—that calculates the sensor’s footprint and outputs geospatially-referenced results. This tool can be used, for example, to validate UAV thermal imagery against data from the IRT sensor.
-
 In parallel, we also explored the possibility of connecting the IRT sensor to our Campbell Scientific eddy covariance (EC) flux tower system. However, this integration has not yet been tested.
 
 <h3>Involved research teams</h3>
