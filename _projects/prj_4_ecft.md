@@ -28,17 +28,11 @@ After our hard hand work, we finally get this.
 <h3>Step 3 - Installing sensors on the ECFT<sup>+</sup></h3>
 
 <h2>Apogee IRT sensor</h2>
-Knowing the land surface temperature can bring us more information, which cannot only help the field work but also improve our research. Thanks for the support from the project, and Dr. Khank ordered one Apogee IRT SI-431 sensor (ultra narrow research gread) for my project. <br>
-Once I got it, our target is using CR1000 data logger to talk to the IRT sensor. This is the step one.<br>
-Considering that we have already put one LI-COR LI-710 ET sensor working at the field, we are thinking to put this sensor into that system. In our lab, I did a test, just like what is shown here via this <a href="https://www.youtube.com/watch?v=2qGr7isubBE" target="_blank">YouTube</a> video. After this test, one important question is how the footprint looks like, and how can we get it?<br> 
-This is a very interesting question, and it takes a day for me to build a model published on<a href="https://doi.10.5281/zenodo.15871684" target="_blank">Zenodo</a> to calculate the footprint and generate the footprint with geospatial information. In this case, it can be used for UAV thermal image validation from this IRT sensor, etc. <br>
-Meanwhile, given we have the Campbell Scientific EC-Flux tower there, we also considered to put the IRT sensor into that system, too. But this one is not tested so far.
-
-Understanding land surface temperature provides valuable insights that can enhance both fieldwork and our research outcomes. With support from the project, Dr. Khan ordered an Apogee SI-431 infrared radiometer (ultra-narrow, research-grade) specifically for my project.
-Once I received the sensor, our first goal was to connect it to a CR1000 data logger—this was our initial step.
-Given that we already have a LI-COR LI-710 ET sensor operating in the field, we considered integrating the IRT sensor into the same system. In the lab, I conducted a test, as demonstrated in [this YouTube video](https://www.youtube.com/watch?v=2qGr7isubBE).
-Following the test, a key question emerged: *What does the sensor’s footprint look like, and how can we determine it?* This led to a day-long effort to develop a model—now published on [Zenodo](https://doi.10.5281/zenodo.15871684)—that calculates the sensor’s footprint and outputs geospatially-referenced results. This tool can be used, for example, to validate UAV thermal imagery against data from the IRT sensor.
-In parallel, we also explored the possibility of connecting the IRT sensor to our Campbell Scientific eddy covariance (EC) flux tower system. However, this integration has not yet been tested.
+Understanding the change of the land surface temperature provides valuable insights that can enhance both fieldwork and our research outcomes. With support from the project, Dr. Khan ordered an Apogee SI-431 infrared radiometer (ultra-narrow, research-grade) specifically for my project.<br>
+Once I received the sensor, our first goal was to connect it to a CR1000 data logger—this was our initial step.<br>
+Given that we already have a LI-COR LI-710 ET sensor operating in the field, we considered integrating the IRT sensor into the same system. In the lab, I conducted a test, as demonstrated in this [YouTube](https://www.youtube.com/watch?v=2qGr7isubBE) video.<br>
+Following the test, a key question emerged: *What does the sensor’s footprint look like, and how can we determine it?* This led to a day-long effort to develop a model—now published on [Zenodo](https://doi.10.5281/zenodo.15871684)—that calculates the sensor’s footprint and outputs geospatially-referenced results. This tool can be used, for example, to validate UAV thermal imagery against data from the IRT sensor.<br>
+In parallel, we also explored the possibility of connecting the IRT sensor to our Campbell Scientific eddy covariance (EC) flux tower system. However, this integration has not yet been tested.<br>
 
 <h3>Involved research teams</h3>
 - FEWS Lab
