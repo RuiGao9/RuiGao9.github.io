@@ -23,7 +23,7 @@ Dr. Khan spoke with Danny and received more refined suggestions, leading to a fe
 <img src="/images/projects/ECFT/ECFT_1.PNG" alt="ecft_2" style="width: 400px; float: right; margin: 5px 5px 5px 10px;">
 
 After our hard hand work, we finally get this.
-<img src="/images/projects/ECFT/ECFT_1.PNG" alt="ecft_3" style="width: 400px; float: left; margin: 5px 5px 5px 10px;">
+<!-- <img src="/images/projects/ECFT/ECFT_1.PNG" alt="ecft_3" style="width: 400px; float: left; margin: 5px 5px 5px 10px;"> -->
 
 <h3>Step 3 - Installing sensors on the ECFT<sup>+</sup></h3>
 
