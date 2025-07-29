@@ -12,7 +12,7 @@ redirect_from:
 ## Guidance for local resources
 
 ## Guidance for students
-The major attributes of leadership<br>
+I personally hope you all can think of below, the major attributes of leadership, in your life, and get "benefits" from them and also bring "benefits" to more people. <br>
 - Unwavering courage based upon knowledge of self, and of one's occupation.
 - Self-control.
 - A keen sense of justice.
