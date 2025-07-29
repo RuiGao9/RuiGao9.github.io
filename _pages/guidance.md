@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /guidance/
 title: "Guidance"
 author_profile: true
 redirect_from: 
