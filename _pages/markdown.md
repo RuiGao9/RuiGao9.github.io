@@ -12,7 +12,7 @@ redirect_from:
 ## Guidance for local resources
 
 ## Guidance for students
-I personally hope you all can think of below, the major attributes of leadership, in your life, and get "benefits" from them and also bring "benefits" to more people. <br>
+I personally hope you all can think of below, the major attributes of leadership, in your life, and get "benefits" from them and also bring "benefits" to more people. They come from THINK and GROW RICH. <br>
 - Unwavering courage based upon knowledge of self, and of one's occupation.
 - Self-control.
 - A keen sense of justice.
