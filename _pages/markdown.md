@@ -7,9 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
+## Guidance for local resources
+
 ## Guidance for new students
-### Pursuing his/her Master's degree
-### Pursuing his/her Ph.D. degree
+### Pursuing your Master's degree
+### Pursuing your Ph.D. degree
 
 ## Locations of key files/directories
 
