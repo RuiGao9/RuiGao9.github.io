@@ -12,6 +12,19 @@ redirect_from:
 ## Guidance for local resources
 
 ## Guidance for students
+The major attributes of leadership<br>
+- Unwavering courage based upon knowledge of self, and of one's occupation.
+- Self-control.
+- A keen sense of justice.
+- Definiteness of decision.
+- Definteness of plans.
+- The habit of doing more than paid for.
+- A pleasing personality.
+- Sympathy and understanding.
+- Mastery of detail.
+- Willingness to assume full responsibility.
+- Cooperation.
+
 ### Pursuing your Master's degree
 
 ### Pursuing your Ph.D. degree
