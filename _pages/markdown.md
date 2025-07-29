@@ -1,11 +1,15 @@
 ---
-permalink: /guidance/
+permalink: /markdown/
 title: "Guidance"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+## Guidance for new students
+### Pursuing his/her Master's degree
+### Pursuing his/her Ph.D. degree
 
 ## Locations of key files/directories
 
