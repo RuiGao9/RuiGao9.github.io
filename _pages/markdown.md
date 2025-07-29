@@ -12,6 +12,14 @@ redirect_from:
 ## Guidance for local resources
 
 ## Guidance for students
+When you step in my lab, I have a few questions for you. I do not hope you have a solid answer for me. However, I do hope you can keep thinking and discussing with me.
+- Where are you come from?
+- Why do you come to me?
+- What do you need from the program/me?
+- How can I help you to be successful?
+- Where do you want to go?
+- How do you get yourself ready for the future adventures?
+
 I personally hope you all can think of below, the major attributes of leadership, in your life, and get "benefits" from them and also bring "benefits" to more people. They come from THINK and GROW RICH. <br>
 - Unwavering courage based upon knowledge of self, and of one's occupation.
 - Self-control.
