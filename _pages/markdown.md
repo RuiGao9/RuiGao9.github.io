@@ -26,8 +26,9 @@ I personally hope you all can think of below, the major attributes of leadership
 - Cooperation.
 
 ### Pursuing your Master's degree
-
+For people who are pursue your master's degree, I personally 
 ### Pursuing your Ph.D. degree
+For people who are pursue your Ph.D. degree, I personally 
 
 ## Locations of key files/directories
 
