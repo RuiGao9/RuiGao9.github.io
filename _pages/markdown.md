@@ -35,12 +35,12 @@ I personally hope you all can think of below, the major attributes of leadership
 
 ### Communications
 Communications in the lab is a significant part of the lab activity. I expected a few things from my side:
-- Honest (even sometimes I did not notice my mistakes)
--
+* Honest (even sometimes I did not notice my mistakes)
+*
 
 I also expected a few things from your side:
-- Honest (even somethimes you did not notice your mistakes)
--
+* Honest (even somethimes you did not notice your mistakes)
+*
 
 ### Pursuing your Master's degree
 For people who are pursue your master's degree, I personally 
