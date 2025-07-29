@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
+## Guidance for school resources
+
 ## Guidance for local resources
 
 ## Guidance for new students
