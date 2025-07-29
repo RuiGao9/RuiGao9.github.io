@@ -11,8 +11,9 @@ redirect_from:
 
 ## Guidance for local resources
 
-## Guidance for new students
+## Guidance for students
 ### Pursuing your Master's degree
+
 ### Pursuing your Ph.D. degree
 
 ## Locations of key files/directories
