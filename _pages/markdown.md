@@ -20,7 +20,7 @@ When you step in my lab, I have a few questions for you. I do not hope you have 
 - Where do you want to go?
 - How do you get yourself ready for the future adventures?
 
-I personally hope you all can think of below, the major attributes of leadership, in your life, and get "benefits" from them and also bring "benefits" to more people. They come from THINK and GROW RICH. <br>
+I personally hope you all can think of below, the major attributes of leadership, in your life, and get "benefits" from them and also bring "benefits" to more people. They come from THINK and GROW RICH. 
 - Unwavering courage based upon knowledge of self, and of one's occupation.
 - Self-control.
 - A keen sense of justice.
@@ -33,13 +33,24 @@ I personally hope you all can think of below, the major attributes of leadership
 - Willingness to assume full responsibility.
 - Cooperation.
 
+### Communications
+Communications in the lab is a significant part of the lab activity. I expected a few things from my side:
+- Honest (even sometimes I did not notice my mistakes)
+-
+
+I also expected a few things from your side:
+- Honest (even somethimes you did not notice your mistakes)
+-
+
 ### Pursuing your Master's degree
 For people who are pursue your master's degree, I personally 
+
 ### Pursuing your Ph.D. degree
 For people who are pursue your Ph.D. degree, I personally 
 
-## Locations of key files/directories
 
+
+## Locations of key files/directories
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
