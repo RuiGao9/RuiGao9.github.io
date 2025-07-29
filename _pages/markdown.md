@@ -48,6 +48,7 @@ For people who are pursue your master's degree, I personally
 ### Pursuing your Ph.D. degree
 For people who are pursue your Ph.D. degree, I personally 
 
+## Guide for lab devices
 
 
 ## Locations of key files/directories
