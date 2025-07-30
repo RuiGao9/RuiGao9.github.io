@@ -51,7 +51,10 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "@raymondgao7.bsky.social" # Replace this with you Bluesky username
+  youtube          : "AggieMan_GR"
+  linkedin         : "ruigao9"
+  bluesky          : "@raymondgao7.bsky.social" 
+  twitter          : "@RaymondGao7"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,19 +63,16 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "ruigao9"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "@RaymondGao7"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "AggieMan_GR"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
