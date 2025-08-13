@@ -43,7 +43,7 @@ Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank
   <img src="/images/AboutMe/GR-Bachelor.jpg" alt="Bike" style="width: 400px; float: right; margin: 5px 10px 5px 5px;">
 </p>
 <p>
-
+My first time to see, talk, stay with real foriners.
 </p>
 <p>
 
