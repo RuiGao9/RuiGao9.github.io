@@ -27,9 +27,9 @@ Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank
 <p>
   Imagine this: it’s around 6 a.m., and your mother gently wakes you. Together, you follow the horses and oxen to the open pastures of a breathtaking landscape. Under the soft warmth of the rising sun, you breathe in the crisp morning air, listen to the animals rhythmically chewing fresh grass, and watch them drink from clear, spring-fed streams. Can you imagine how special it would be to share such a moment with your own children?
 </p>
-  <p>
+<p>
   The oxen had a mischievous streak. Sometimes, instead of taking the long route home before sunset, they would leap into the river to save time and energy. Even the sharp whistles from the wrangler trying to keep them from crossing couldn’t hold them back. Watching them plunge into the water and paddle determinedly to the other side was pure joy for me as a child—one of those small, unforgettable pleasures that made this place feel truly magical.
-  </p>
+</p>
 <p>
   As the first person in my family to step beyond our small community and earn a doctoral degree, I carry these memories with deep pride and gratitude. By sharing my journey—one rooted in a quiet village and shaped by humble beginnings—I hope to inspire my children and others who visit my website to dream boldly, strive higher, and value the importance of preserving a clean, simple environment for future generations. If I could follow this path, I truly believe they can go even further.
 </p>
