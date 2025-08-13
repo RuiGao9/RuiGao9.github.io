@@ -36,7 +36,11 @@ Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank
   I feel fortunate to have gone to college instead of following my family’s original plan for me—either managing sheep in the mountains or applying for about 40 acres of farmland for cropping. My work experiences, such as spending weeks picking tomatoes during harvest season, joining pipes outside construction sites, and working full-time in a fast-food restaurant, taught me that sitting in a classroom is far more comfortable. But no one has told me what comes next, and I have no clear idea about my future.
   </p><p>
   During the first two years of study, our courses did not directly relate to our specific major. We often asked teachers, senior students, and classmates what exactly we were learning and what kind of work we would do in the future. They were all very kind and talkative, but somehow, I still couldn’t fully understand their answers. Fortunately, I did not waste time on computer games. I had five incredibly friendly roommates who encouraged me to explore whatever I was interested in. They were like a team offering me constant spiritual support, and they also gave me both the emotional and physical space to focus on what I truly loved. At one point, this encouragement led me to embark on my first biking journey.<br>
-</p><p>
+  </p><p>
+  
+  </p><p>
+
+</p>
 
 </p>
   <img src="/images/AboutMe/GR-Bachelor-1.JPG" alt="College" style="width: 400px; float: right; margin: 5px 10px 5px 5px;">
