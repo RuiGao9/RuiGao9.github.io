@@ -43,7 +43,9 @@ Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank
   <img src="/images/AboutMe/GR-Bachelor.jpg" alt="Bike" style="width: 400px; float: right; margin: 5px 10px 5px 5px;">
 </p>
 <p>
-From Xinjiang Agricultural University to my hometown, the distance is over 600 km for bicycle or walking. This first day, I ride my bike half of the day and arrived my first station, Shihezi City, where I have my unte living there. So, free hotel! 
+From Xinjiang Agricultural University to my hometown, the distance is over 600 km for bicycle or walking. This first day, I ride my bike half of the day and arrived my first station, Shihezi City, where I have my unte living there. So, free hotel! A really good chance for me to take a look at this 'famous' city. So, I spent one day there, take a look at the city, have some good food there with the guidance of my collegemate there. For the daytime, I also bring my bike, since I was so into my bike. <br>
+From the third day of the trip, I started from Shihezi City to Wusu City, and stayed with one of my collagemate, Lei. He tread me dinner and swimming ticket, etc. His hospitability really touched me. I was spoiled by my collagemates. <br>
+From the fourth day, the most taugh day in my life happened. 
 </p>
 <p>
 
