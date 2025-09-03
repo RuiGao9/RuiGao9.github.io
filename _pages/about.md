@@ -43,12 +43,24 @@ Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank
   <img src="/images/AboutMe/GR-Bachelor.jpg" alt="Bike" style="width: 400px; float: right; margin: 5px 10px 5px 5px;">
 </p>
 <p>
-The distance from Xinjiang Agricultural University to my hometown is over 600 kilometers by bike or on foot. Determined to make the journey, I set off on my bike, riding for half a day before reaching my first stop: Shihezi City. Luckily, I had an aunt living there—free accommodation! It was the perfect opportunity to explore this "famous" city that I had long heard about.<br>
-I decided to spend a full day in Shihezi. With guidance from a college friend who also lived there, I toured the city and enjoyed some amazing local food. I brought my bike along during the day as well—at that time, I was completely in love with cycling. <br>
-On the third day, I biked from Shihezi to Wusu City, where I stayed with another college friend, Lei. His hospitality deeply touched me—he treated me to dinner and even bought me a swimming ticket. I felt truly spoiled by the kindness of my college friends, and their generosity made the journey even more memorable. <br>
-Day four marked one of the most challenging days of my life. I rode over 200 kilometers—the longest distance I’ve ever covered in a single day (whether it was 208 or 218 km, I can’t quite recall). The route consisted of a single road, essentially a freeway—one of the few where bicycles are actually permitted. <br>
-The ride was grueling: no trees, no shade, and a light wind that made pedaling even harder. Yet, something amazing happened. I met two cyclists from Germany who were traveling across countries by bike. Though I had studied English for years, this was the first time I spoke with native speakers in a real-world setting. I tried my best to communicate—and I did understand their story. <br>
-Their journey was eye-opening and inspiring. I had never considered traveling the world on a bicycle, but after meeting them, a small voice in my heart whispered:<br>
+The distance from Xinjiang Agricultural University to my hometown is over 600 kilometers by bike or on foot. Determined to make the journey, I set off on my bike, riding for half a day before reaching my first stop: Shihezi City. Luckily, I had an aunt living there—free accommodation! It was the perfect opportunity to explore this "famous" city that I had long heard about.
+</p>
+<p>
+I decided to spend a full day in Shihezi. With guidance from a college friend who also lived there, I toured the city and enjoyed some amazing local food. I brought my bike along during the day as well—at that time, I was completely in love with cycling.
+</p>
+<p>
+On the third day, I biked from Shihezi to Wusu City, where I stayed with another college friend, Lei. His hospitality deeply touched me—he treated me to dinner and even bought me a swimming ticket. I felt truly spoiled by the kindness of my college friends, and their generosity made the journey even more memorable. 
+</p>
+<p>
+Day four marked one of the most challenging days of my life. I rode over 200 kilometers—the longest distance I’ve ever covered in a single day (whether it was 208 or 218 km, I can’t quite recall). The route consisted of a single road, essentially a freeway—one of the few where bicycles are actually permitted. 
+</p>
+<p>
+The ride was grueling: no trees, no shade, and a light wind that made pedaling even harder. Yet, something amazing happened. I met two cyclists from Germany who were traveling across countries by bike. Though I had studied English for years, this was the first time I spoke with native speakers in a real-world setting. I tried my best to communicate—and I did understand their story. 
+</p>
+<p>
+Their journey was eye-opening and inspiring. I had never considered traveling the world on a bicycle, but after meeting them, a small voice in my heart whispered:
+</p>
+<p>
 "Could I do this too?"
 </p>
 <p>
