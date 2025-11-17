@@ -14,7 +14,7 @@ summary: "Collaborators"
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
   <div>
-    <p>Dr. <a href="https://ecohydrology.ucmerced.edu/" target="_blank">John T. Abatzoglou</a><br>Professor in the Management of Complex Systems Department in the University of California, Merced.</p> 
+    <p>Dr. <a href="https://engineering.ucmerced.edu/content/john-abatzoglou" target="_blank">John T. Abatzoglou</a><br>Professor in the Management of Complex Systems Department in the University of California, Merced.</p> 
   </div>
 
 </div>
