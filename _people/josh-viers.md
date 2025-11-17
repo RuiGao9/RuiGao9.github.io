@@ -14,7 +14,11 @@ summary: "Collaborators"
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
   <div>
-    <p>Dr. <a href="https://engineering.ucmerced.edu/content/joshua-viers" target="_blank">Joshua H. Viers</a><br>Professor in CEE Department at University of California Merced.</p>
+    <p>Dr. <a href="https://engineering.ucmerced.edu/content/joshua-viers" target="_blank">Joshua H. Viers</a><br>Professor in CEE Department at University of California Merced. <br>
+    - Hydrology <br>
+    - Water rights <br>
+    - Water resource management <br>
+    </p>
   </div>
 
 </div>
