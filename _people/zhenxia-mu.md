@@ -15,7 +15,7 @@ summary: "The main mentor and supervisor for Rui's master-degree program."
 
   <div>
     <p>Dr. <a href="https://chce.xjau.edu.cn/2023/0830/c3851a87999/page.htm" target="_blank">Zhenxia Mu</a><br>Professor at Xinjiang Agricultural University.</p>
-    Rui was the first graduated student from Dr. Mu's lab fully supervisored by Dr. Mu. Before Rui's graduation, a few students were partially supervisored by Dr. Mu and graduated smoothly.
+    <!-- Rui was the first graduated student from Dr. Mu's lab fully supervisored by Dr. Mu. Before Rui's graduation, a few students were partially supervisored by Dr. Mu and graduated smoothly. -->
   </div>
 
 </div>
