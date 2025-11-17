@@ -18,7 +18,8 @@ He has developed innovative methods for estimating evapotranspiration and leaf w
        style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
   <div>
-    <p>Dr. Rui Gao <br> is the founder and principal investigator of the GR Lab. His research focuses on vineyard water stress monitoring using high-resolution UAV imagery, thermal imaging, and machine learning.
-    He has developed innovative methods for estimating evapotranspiration and leaf water potential by integrating remote sensing data and meteorological inputs. Dr. Gao is passionate about advancing agricultural water management through data-driven solutions and interdisciplinary collaboration.</p>
+    <p>Dr. Rui Gao <br> Postdoctoral scholar in University of California, Merced.
+    <!-- is the founder and principal investigator of the GR Lab. His research focuses on vineyard water stress monitoring using high-resolution UAV imagery, thermal imaging, and machine learning. -->
+    <!-- He has developed innovative methods for estimating evapotranspiration and leaf water potential by integrating remote sensing data and meteorological inputs. Dr. Gao is passionate about advancing agricultural water management through data-driven solutions and interdisciplinary collaboration.</p> -->
   </div>
 </div>
