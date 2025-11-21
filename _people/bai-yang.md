@@ -18,8 +18,6 @@ summary: "Collaborators"
     - Eddy-covariance flux measurement <br>
     - Instruments and techniques for micro-meteorological observations <br>
     - Atmospheric turbulence modeling <br>
-      
-    <!-- -  <br> -->
     </p> 
   </div>
 
