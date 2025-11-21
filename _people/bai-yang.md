@@ -2,7 +2,7 @@
 title: "Bai Yang"
 role: "Senior Application Scientist"
 affiliation: "Campbell Scientific"
-email: "byang@campbellsci.com"
+# email: "byang@campbellsci.com"
 group: "Collaborators"
 # image: /images/Professional_GS.jpg
 summary: "Collaborators"
