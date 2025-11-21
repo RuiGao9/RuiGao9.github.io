@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Gao, Rui | GR Lab"
+title                    : "Dr. Gao, Rui | L.O.V.E."
 title_separator          : "-"
 name                     : &name "Rui Gao"
 description              : &description "personal description"
