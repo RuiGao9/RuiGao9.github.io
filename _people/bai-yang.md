@@ -1,8 +1,8 @@
 ---
 title: "Bai Yang"
-role: "Associate Professor"
+role: "Senior Application Scientist"
 affiliation: "Campbell Scientific"
-# email: "ruigao@ucmerced.edu"
+email: "byang@campbellsci.com"
 group: "Collaborators"
 # image: /images/Professional_GS.jpg
 summary: "Collaborators"
