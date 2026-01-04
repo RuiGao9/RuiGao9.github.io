@@ -61,7 +61,7 @@ Their journey was eye-opening and inspiring. I’d never considered biking aroun
 </p>
 
 <p>
-  <img src="/images/AboutMe/Hohai_Stage.PNG" alt="College" style="width: 450px; float: right; margin: 5px 10px 5px 5px;">
+  <img src="/images/AboutMe/Hohai_Stage.PNG" alt="College" style="width: 430px; float: right; margin: 5px 10px 5px 5px;">
 That summer, I worked at a fast-food restaurant to pay off my bills, then biked about 600 km back to school. It was a packed break, and it reset my mindset: work hard, study hard, and enjoy life with my schoolmates. Soon after, a one-year visiting-scholar opportunity at Hohai University, a school with a great reputation, appeared. With my schoolmates cheering me on — and the thought of cycling again — I applied without any hesitation. 
 </p>
 <p>
