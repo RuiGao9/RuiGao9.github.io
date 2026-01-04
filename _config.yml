@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Gao, Rui | L.O.V.E."
+title                    : "Dr. Gao, Rui | W.A.T.E.R.S. Lab"
 title_separator          : "-"
 name                     : &name "Rui Gao"
 description              : &description "personal description"
