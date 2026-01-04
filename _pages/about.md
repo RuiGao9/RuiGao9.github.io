@@ -61,9 +61,17 @@ Their journey was eye-opening and inspiring. I’d never considered biking aroun
 </p>
 
 <p>
-  <img src="/images/AboutMe/GR-Bachelor-1.JPG" alt="College" style="width: 400px; float: right; margin: 5px 10px 5px 5px;">
-  Stories occured in Master's degree.<br>
-  Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories. Rui was born in a small town of about 30 families, where the community speaks two languages and maintains a rich blend of cultural traditions. As the first in his family to achieve a doctoral degree, he hopes to inspire his children and others to pursue higher education based on his limited expierences and stories.<br>  
+  <img src="/images/AboutMe/Hohai_Stage.PNG" alt="College" style="width: 400px; float: right; margin: 5px 10px 5px 5px;">
+That summer, I worked at a fast-food restaurant to pay off my bills, then biked about 600 km back to school. It was a packed break, and it reset my mindset: work hard, study hard, and enjoy life with my schoolmates. Soon after, a one-year visiting-scholar opportunity at Hohai University, a school with a great reputation, appeared. With my schoolmates cheering me on — and the thought of cycling again — I applied without any hesitation. 
+</p>
+<p>
+The students at Hohai University impressed me deeply. On the first day of the fall semester, the lecture hall was almost full—four different classes of students had taken nearly every seat. At the beginning of class, the instructor took attendance. He called the first student’s name twice, but no one responded. He paused and asked where she was from and whether she would arrive on time for the new semester.
+</p>
+<p>
+A few students answered, “She’s from Urumqi, Xinjiang.” Hearing that made me excited—Urumqi is my hometown. But I also felt a little awkward: someone from my hometown was missing class without notice. Then the students added, “She went to Germany for an exchange program.” That completely surprised me. People around me were casually talking about studying abroad, as if it were normal. In that moment, I realized how limited my world had been by what I had seen so far. Even though I didn’t know her, just hearing her name planted a seed in my heart.
+</p>
+<p>
+At the time, my life was still centered on a simple rhythm: study hard, play hard. I was also thinking about another long bike trip after my visiting year. But I wasn’t sure whether I could ride all the way back to Xinjiang, because I didn’t know how much time I would need to prepare for the entrance exam for a master’s program. In the end, I chose a different route. I cycled to Zigui, a small city more than 1,000 km from Hohai University, where you can see the world’s largest hydroelectric gravity dam—the Three Gorges Dam. After that, I took the train back to Urumqi and began preparing for the exam to enter graduate school.
 </p>
 
 <p>
