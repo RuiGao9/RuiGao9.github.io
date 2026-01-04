@@ -36,35 +36,28 @@ Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank
 
 <p>
   <img src="/images/AboutMe/GR-Bachelor-1.JPG" alt="College" style="width: 400px; float: left; margin: 5px 10px 5px 5px;">
-  I feel fortunate to have gone to college instead of following my family’s original plan for me—either managing sheep in the mountains or applying for about 40 acres of farmland for cropping. My work experiences, such as spending weeks picking tomatoes during harvest season, joining pipes outside construction sites, and working full-time in a fast-food restaurant, taught me that sitting in a classroom is far more comfortable. But no one has told me what comes next, and I have no clear idea about my future.
+  I feel fortunate to have gone to college instead of following my family’s original plan for me — either managing sheep in the mountains or applying for about 40 acres of farmland for cropping. My work experiences, such as spending weeks picking tomatoes during harvest season, joining pipes outside construction sites, and working full-time in a fast-food restaurant, taught me that sitting in a classroom is far more comfortable. But no one has told me what came next, and I had no clear idea about my future.
 </p>
 <p>
-  During the first two years of study, our courses did not directly relate to our specific major. We often asked teachers, senior students, and classmates what exactly we were learning and what kind of work we would do in the future. They were all very kind and talkative, but somehow, I still couldn’t fully understand their answers. Fortunately, I did not waste time on computer games. I had five incredibly friendly roommates who encouraged me to explore whatever I was interested in. They were like a team offering me constant spiritual support, and they also gave me both the emotional and physical space to focus on what I truly loved. At one point, this encouragement led me to embark on my first biking journey, which is also the first time for me to really have some conversations with two foriners, a germany sister and his brother.
-  <img src="/images/AboutMe/GR-Bachelor.jpg" alt="Bike" style="width: 400px; float: right; margin: 5px 10px 5px 5px;">
+During the first two years of study, our courses did not directly relate to our specific major. We often asked teachers, senior students, and classmates what exactly we were learning and what kind of work we would do in the future. They were all very kind and talkative, but somehow, I still couldn’t fully understand their answers. Fortunately, I did not waste time on computer games. I had five incredibly friendly roommates who encouraged me to explore whatever I was interested in. They were like a team offering me constant spiritual support, and they also gave me both the emotional and physical space to focus on what I truly loved. At one point, this encouragement led me to embark on my first biking journey, which was also the first time for me to really have some conversations with two foreigners, a German sister and his brother.
 </p>
 <p>
-The distance from Xinjiang Agricultural University to my hometown is over 600 kilometers by bike or on foot. Determined to make the journey, I set off on my bike, riding for half a day before reaching my first stop: Shihezi City. Luckily, I had an aunt living there—free accommodation! It was the perfect opportunity to explore this "famous" city that I had long heard about.
+The distance from Xinjiang Agricultural University to my hometown is over 600 kilometers by bike or on foot. Determined to make the journey, I set off on my bike, riding for half a day before reaching my first stop: Shihezi City. Luckily, I had an aunt living there — free accommodation! It was the perfect opportunity to explore this "famous" city that I had long heard about.
 </p>
 <p>
-I decided to spend a full day in Shihezi. With guidance from a college friend who also lived there, I toured the city and enjoyed some amazing local food. I brought my bike along during the day as well—at that time, I was completely in love with cycling.
+I decided to spend a whole day in Shihezi. With guidance from a college friend who also lived there, I toured the city and enjoyed some amazing local food. I brought my bike along during the day as well — at that time, I was completely in love with cycling.
 </p>
 <p>
-On the third day, I biked from Shihezi to Wusu City, where I stayed with another college friend, Lei. His hospitality deeply touched me—he treated me to dinner and even bought me a swimming ticket. I felt truly spoiled by the kindness of my college friends, and their generosity made the journey even more memorable. 
+On the third day, I biked from Shihezi to Wusu City, where I stayed with another college friend, Lei. His hospitality deeply touched me — he treated me to dinner and even bought me a swimming ticket. I felt truly spoiled by the kindness of my college friends, and their generosity made the journey even more memorable.
 </p>
 <p>
-Day four marked one of the most challenging days of my life. I rode over 200 kilometers—the longest distance I’ve ever covered in a single day (whether it was 208 or 218 km, I can’t quite recall). The route consisted of a single road, essentially a freeway—one of the few where bicycles are actually permitted. 
+Day four marked one of the most challenging days of my life. I rode over 200 kilometers — the longest distance I’ve ever covered in a single day (whether it was 208 or 218 km, I can’t quite recall). The route consisted of a single road, essentially a freeway — one of the few where bicycles are actually permitted.
 </p>
 <p>
-The ride was grueling: no trees, no shade, and a light wind that made pedaling even harder. Yet, something amazing happened. I met two cyclists from Germany who were traveling across countries by bike. Though I had studied English for years, this was the first time I spoke with native speakers in a real-world setting. I tried my best to communicate—and I did understand their story. 
+The ride was grueling: no trees, no shade, and a light wind that made pedaling even harder. Yet, something amazing happened. I met two cyclists from Germany who were traveling across countries by bike. Though I had studied English for years, this was the first time I spoke with native speakers in a real-world setting. I tried my best to communicate—and I did understand their story.
 </p>
 <p>
-Their journey was eye-opening and inspiring. I had never considered traveling the world on a bicycle, but after meeting them, a small voice in my heart whispered:
-</p>
-<p>
-"Could I do this too?"
-</p>
-<p>
-
+Their journey was eye-opening and inspiring. I’d never considered biking around the world, but after meeting them, a quiet voice in my heart asked, “Could I do this?” And then the question shifted: not whether I could, but who I am—and what I should do with my life.
 </p>
 
 <p>
