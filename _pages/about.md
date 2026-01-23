@@ -76,6 +76,7 @@ At the time, my life was still centered on a simple rhythm: study hard, play har
 
 ------
 **TBD**
+
 ------
 
 Site-wide configuration
