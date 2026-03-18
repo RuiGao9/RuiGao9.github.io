@@ -35,7 +35,7 @@ Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank
 </p>
 
 <p>
-  <img src="/images/AboutMe/GR-Bachelor-1.JPG" alt="College" style="width: 400px; float: left; margin: 5px 10px 5px 5px;">
+  <!-- <img src="/images/AboutMe/GR-Bachelor-1.JPG" alt="College" style="width: 400px; float: left; margin: 5px 10px 5px 5px;"> -->
   I feel fortunate to have gone to college instead of following my family’s original plan for me — either managing sheep in the mountains or applying for about 40 acres of farmland for cropping. My work experiences, such as spending weeks picking tomatoes during harvest season, joining pipes outside construction sites, and working full-time in a fast-food restaurant, taught me that sitting in a classroom is far more comfortable. But no one has told me what came next, and I had no clear idea about my future.
 </p>
 <p>
