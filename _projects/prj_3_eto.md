@@ -1,4 +1,14 @@
 ---
+layout: archive
+title: "Crop Reference Evapotranspiration Estimation"
+summary: "$ET_o$ estimation using CIMIS dataset and the deep learning approach."
+image: /images/500x300.png
+status: "Active"
+category: "Machine Learning"
+---
+这里是您的项目详细介绍内容...
+
+<!-- ---
 title: "2024 Crop Reference EvapoTranspiration"
 date: 2024-10-20
 category: Research 
@@ -26,4 +36,4 @@ After several discussions with Dr. Khan in his office, we became genuinely inter
 <h2>Involved research teams</h2>
 - FEWS Lab
 - VICE Lab
-- GR Lab
+- GR Lab -->
