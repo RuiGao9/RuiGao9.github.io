@@ -6,7 +6,8 @@ image: /images/500x300.png
 status: "finished"
 category: "Machine Learning"
 ---
-> **Affiliation:** Postdoctoral Research Project at the University of California, Merced, USA.
+> **Program:** Postdoctoral Training Porgram
+> **Affiliation:** University of California, Merced, CA, USA
 
 ## Project Overview
 
