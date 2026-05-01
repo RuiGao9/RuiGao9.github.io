@@ -9,6 +9,7 @@ category: "Machine Learning"
 
 > **Affiliation:** Postdoctoral Research Project at the University of California, Merced.
 ## Project Overview
+
 ### Phase 1: Using the deep learning approach for ETo estimation 
 
 ### Phase 2: 
