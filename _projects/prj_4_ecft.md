@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "2025 Eddy Covariance Flux Trailer"
 date: 2025-07-20
 category: Ground Measurements
@@ -36,4 +36,4 @@ In parallel, we also explored the possibility of connecting the IRT sensor to ou
 <h3>Involved research teams</h3>
 - FEWS Lab
 - VICE Lab
-- GR Lab
+- GR Lab -->
