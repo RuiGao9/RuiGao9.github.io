@@ -1,4 +1,14 @@
 ---
+layout: archive
+title: "Deep Learning for ETo Forecasting"
+summary: "Using CNN-LSTM models to improve daily reference evapotranspiration estimation."
+image: /assets/images/eto-project-thumb.png
+status: "Active"
+category: "Machine Learning"
+---
+这里是您的项目详细介绍内容...
+
+<!-- ---
 title: '2018 Artificial Agricultural Drainage Ditch System (AADDS) Detection and Delination'
 date: 2018-07-24
 category: Geology
@@ -20,4 +30,4 @@ You can see hwo the latent heat flux (evapotranspiration) was addressed by the T
 
 For errors, etc.
 ------
-Please contact to RuiGao@UCMerced.edu, and thanks for your attention and help.
+Please contact to RuiGao@UCMerced.edu, and thanks for your attention and help. -->
