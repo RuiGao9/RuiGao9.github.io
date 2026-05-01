@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Crop Reference Evapotranspiration Estimation"
-summary: "ETo estimation using CIMIS dataset and the deep learning approach."
+title: "Agricultural Water Resources Management through Crop Reference Evapotranspiration (ETo) in California"
+summary: "Physics-informed machine learning for California fine-resolution ETo estimation."
 image: /images/500x300.png
 status: "finished"
 category: "Machine Learning"
@@ -9,6 +9,9 @@ category: "Machine Learning"
 
 > **Affiliation:** Postdoctoral Research Project at the University of California, Merced.
 ## Project Overview
+### Phase 1: Using the deep learning approach for ETo estimation 
+
+### Phase 2: 
 Agriculture in California is a cornerstone of the state and national economy. Given the recurring water challenges, efficient water resource management is a persistent priority. 
 
 This project focuses on forecasting **Evapotranspiration (ET)** across multiple spatial scales—from sub-field to statewide—to provide actionable insights for precision agriculture and water policy.
