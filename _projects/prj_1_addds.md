@@ -3,7 +3,7 @@ layout: archive
 title: "Deep Learning for ETo Forecasting"
 summary: "Using CNN-LSTM models to improve daily reference evapotranspiration estimation."
 image: /assets/images/eto-project-thumb.png
-status: "Active"
+status: "finished"
 category: "Machine Learning"
 ---
 这里是您的项目详细介绍内容...

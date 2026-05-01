@@ -3,7 +3,7 @@ layout: archive
 title: "Crop Reference Evapotranspiration Estimation"
 summary: "$ET_o$ estimation using CIMIS dataset and the deep learning approach."
 image: /images/500x300.png
-status: "Active"
+status: "finished"
 category: "Machine Learning"
 ---
 这里是您的项目详细介绍内容...

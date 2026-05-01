@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+{% assign active_projects = site.projects | where: "status", "active" %}
+{% assign finished_projects = site.projects | where: "status", "finished" %}
 
 <h2>Research Projects</h2>
 In this section, I’ll share some of the stories behind the research papers, repositories, and other work. Both published and unpublished projects will be mentioned at the appropriate points.
@@ -41,5 +43,22 @@ In this section, I’ll share some of the stories behind the research papers, re
 {% endfor %}
 
 <h2>Finished Research Projects</h2>
-In this section, I’ll share some of the stories behind the research papers, repositories, and other work. Both published and unpublished projects will be mentioned at the appropriate points.
+<p>Descriptions of completed work and past contributions.</p>
 <hr />
+
+{% for post in finished_projects reversed %}
+  <div style="display: flex; margin-bottom: 40px; gap: 20px;">
+    <div style="flex: 0 0 250px;">
+      {% if post.image %}
+        <img src="{{ post.image | relative_url }}" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+      {% else %}
+        <div style="width: 100%; height: 150px; background: #f0f0f0; border-radius: 8px;"></div>
+      {% endif %}
+    </div>
+    <div style="flex: 1;">
+      <h3 style="margin-top: 0;"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p style="color: #666; font-size: 0.9em;">{{ post.summary }}</p>
+      <a href="{{ post.url | relative_url }}" style="font-size: 0.8em; color: #2a7ae2;">Read More →</a>
+    </div>
+  </div>
+{% endfor %}
