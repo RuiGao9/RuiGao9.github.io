@@ -11,7 +11,6 @@ category: "Physical Modeling"
 
 ## Project Overview
 Data scarcity, such as meteorological and hydrological data, is a primary challenge for water resource management at different spatial scales in Xinjiang. In this project, we built a VIC model for the Kashi River Basin (a Xinjiang alpine region) and used different reanalysis meteorological data, including the Climate Forecast System Reanalysis (CFSR) and ERA-Interim produced by ECMWF, to force the VIC model. We saw the potential to use both CFSR and ERA-Interim data for that watershed's water resource management. Additionally, we simulated the runoff under different assumed climate scenarios. The results showed a signal that the Kashi River Basin was a fragile alpine region under the climate-changing background.
-(The left figure comes from https://vic.readthedocs.io/en/master/Overview/ModelOverview/)
 
 ## Project Results & Publications
 ### Journal Articles
