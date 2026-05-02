@@ -6,7 +6,7 @@ image: /images/500x300.png
 status: "finished"
 category: "Physical Modeling"
 ---
-> **Program:** Master's Degree Porgram
+> **Program:** Master's Degree Porgram <br>
 > **Affiliation:** Xinjiang Agricultural University, Urumqi, Xinjiang, CHN.
 
 ## Project Overview
