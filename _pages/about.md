@@ -76,6 +76,23 @@ A few students answered, “She’s from Urumqi, Xinjiang.” Hearing that made 
 At the time, my life was still centered on a simple rhythm: study hard, play hard. I was also thinking about another long bike trip after my visiting year. But I wasn’t sure whether I could ride all the way back to Xinjiang, because I didn’t know how much time I would need to prepare for the entrance exam for a master’s program. In the end, I chose a different route. I cycled to Zigui, a small city more than 1,000 km from Hohai University, where you can see the world’s largest hydroelectric gravity dam—the Three Gorges Dam. After that, I took the train back to Urumqi and began preparing for the exam to enter graduate school.
 </p>
 
+<p><h3>My plan is "B"erlin; God puts "A"merica in my path!</h3>
+  Mathematics and English vocabulary occupied almost my entire summer break. I barely dared to go to the basketball court, because every missed hour of studying might be blamed later if I failed the National Entrance Examination for Master’s Degree. Nearly 100% of my attention was devoted to that exam, which would be held nationwide around December.
+However, God’s plan can never be predicted exactly.
+When the fall semester started, an announcement for an internal master’s degree admission opportunity was posted at our school. It meant that, if I met the qualifications, I could take an examination organized by the university itself. If I passed, I could secure a place in the master’s program earlier than most students.
+But there was a price.
+Accepting that opportunity also meant giving up the chance to apply to other universities. In other words, I would have to give up the possibility of returning to Hohai University and meeting those basketball lovers again—those guys who, in my mind, were also equipped with “upgraded” brains compared with mine.
+Unfortunately—or perhaps fortunately—I met the qualifications and passed the examinations, while everyone else was still fighting hard for the national entrance exam.
+Then the choice was placed in front of me: keep the “early-bird ticket,” or give it up and join everyone else in fighting for my “ideal” university.
+At that moment, something Dr. Kong had once said came back to me. It was only a casual comment during one of his classes at Hohai University:
+“I would definitely pursue my master’s degree at my own university if the entrance examination could be waived. Just imagine—you could start earlier than others in building your career. That would be good for your future development.”
+He was probably right.
+At least, he convinced me at that time (However, I forgot he said that at Hohai University).
+So, I kept the ticket.
+After that, I started learning English and the saxophone.
+English was for Germany. At that time, I imagined that one day I might bike there for a Ph.D.—relatively low cost, but still with a degree carrying the reputation of “German quality.” The saxophone was for something completely different: it was an attempt to fulfill a childhood dream of mine.
+Out of my control, however, life eventually took me somewhere completely different. One day, I found myself standing on a stage in the United States, playing the saxophone while celebrating the traditional Chinese New Year.
+</p>
 ------
 **TBD**
 
