@@ -22,6 +22,7 @@ Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank
 <h2>More About Me</h2>
 <p>
   <img src="/images/AboutMe/GR-Hometown.jpg" alt="Hometown" style="width: 400px; float: right; margin: 5px 5px 5px 10px;">
+  <h3>Where am I from?</h3>
   I was born in a small town less than 80 miles by road from the border between China and Kazakhstan. My family relocated three times within the same region, but the second place we lived—where about 50 families resided—left the most lasting impression on me. That tight-knit community, where two languages were spoken, was rich in cultural traditions and offered a truly unique and beautiful way of life. You can get a glimpse of its charm from the picture here. I introduced this peaceful place to every friend who visited me, and I’m always eager to share its beauty with more people.
 </p>
 <p>
