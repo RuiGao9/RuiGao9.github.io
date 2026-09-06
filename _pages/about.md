@@ -6,8 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+p {
+  margin-bottom: 0.2em;
+}
+</style>
+
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9/RuiGao9.github.io)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1RqJPnoYggKrULKly3n7fQcFqSUA8CTeP/view?usp=drive_link)
+
 
 <h2>Welcome to FEWS Lab at UC-Merced!<br>
     Also WELCOME to follow my research!</h2>
@@ -77,7 +84,7 @@ At the time, my life was still centered on a simple rhythm: study hard, play har
 </p>
 
 <p><h3>My plan is "B"erlin; God puts "A"merica in my path!</h3>
-  Mathematics and English vocabulary occupied almost my entire summer break. I barely dared to go to the basketball court, because every missed hour of studying might be blamed later if I failed the National Entrance Examination for Master’s Degree. Nearly 100% of my attention was devoted to that exam, which would be held nationwide around December.
+Mathematics and English vocabulary occupied almost my entire summer break. I barely dared to go to the basketball court, because every missed hour of studying might be blamed later if I failed the National Entrance Examination for Master’s Degree. Nearly 100% of my attention was devoted to that exam, which would be held nationwide around December.
 </p>
 <p>
 However, God’s plan can never be predicted exactly.
