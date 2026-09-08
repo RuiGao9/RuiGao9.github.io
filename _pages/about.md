@@ -72,15 +72,15 @@ Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank
 <script>
 const slides = [
   {
-    src: "/images/Bicycle_Fron_Page.png",
+    src: "/images/AboutMe/Bicycle_Fron_Page.png",
     caption: "June 2026 — Building an EC flux tower from the ground up at the FEWS Lab."
   },
   {
-    src: "/images/Dissertation_Flyer_GR.png",
+    src: "/images/AboutMe/Dissertation_Flyer_GR.png",
     caption: "August 2025 — Assembling 'Flux on Wheels,' a trailer-mounted EC flux tower."
   },
   {
-    src: "/images/GR-PhD.jpg",
+    src: "/images/AboutMe/GR-PhD.jpg",
     caption: "2023 — Ph.D. defense at Utah State University."
   }
   // add more { src: "...", caption: "..." } objects here
