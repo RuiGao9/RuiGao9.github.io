@@ -22,19 +22,16 @@ Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank
 
 <h2>Life in Photos</h2>
 
-<div class="photo-carousel">
-  <button class="carousel-btn prev" onclick="changeSlide(-1)">&#10094;</button>
-
+<div id="life-carousel" class="photo-carousel">
+  <button class="carousel-btn prev">&#10094;</button>
   <div class="carousel-slide">
-    <img id="carousel-img" src="" alt="carousel photo">
-    <p id="carousel-caption"></p>
+    <img class="carousel-img" src="" alt="carousel photo">
+    <p class="carousel-caption"></p>
   </div>
-
-  <button class="carousel-btn next" onclick="changeSlide(1)">&#10095;</button>
+  <button class="carousel-btn next">&#10095;</button>
 </div>
 
 <style>
-
 .photo-carousel {
   display: flex;
   align-items: center;
@@ -68,44 +65,26 @@ Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank
 .carousel-btn:hover {
   color: #007acc;
 }
-
 </style>
 
+<script src="/assets/js/photo-carousel.js"></script>
 <script>
-
-const slides = [
-  {
-    src: "/images/AboutMe/Bicycle_Fron_Page.png",
-    caption: "June 2026 — Building an EC flux tower from the ground up at the FEWS Lab."
-  },
-  {
-    src: "/images/AboutMe/Dissertation_Flyer_GR.png",
-    caption: "August 2025 — Assembling 'Flux on Wheels,' a trailer-mounted EC flux tower."
-  },
-  {
-    src: "/images/AboutMe/GR-PhD.jpg",
-    caption: "2023 — Ph.D. defense at Utah State University."
-  }
-  // add more { src: "...", caption: "..." } objects here
-];
-
-let currentSlide = 0;
-
-function showSlide(index) {
-  const slide = slides[index];
-  document.getElementById("carousel-img").src = slide.src;
-  document.getElementById("carousel-caption").innerText = slide.caption;
-}
-
-function changeSlide(direction) {
-  currentSlide = (currentSlide + direction + slides.length) % slides.length;
-  showSlide(currentSlide);
-}
-
-showSlide(currentSlide);
-
+  initCarousel('life-carousel', [
+    {
+      src: "/images/AboutMe/Bicycle_Fron_Page.png",
+      caption: "June 2026 — Building an EC flux tower from the ground up at the FEWS Lab."
+    },
+    {
+      src: "/images/AboutMe/Dissertation_Flyer_GR.png",
+      caption: "August 2025 — Assembling 'Flux on Wheels,' a trailer-mounted EC flux tower."
+    },
+    {
+      src: "/images/AboutMe/GR-PhD.jpg",
+      caption: "2023 — Ph.D. defense at Utah State University."
+    }
+    // 以后想加照片，就在这里继续加 { src: "...", caption: "..." }
+  ]);
 </script>
-
 
 
 <h2>More About Me</h2>
