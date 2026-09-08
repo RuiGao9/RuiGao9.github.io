@@ -34,6 +34,7 @@ Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank
 </div>
 
 <style>
+
 .photo-carousel {
   display: flex;
   align-items: center;
@@ -67,9 +68,11 @@ Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank
 .carousel-btn:hover {
   color: #007acc;
 }
+
 </style>
 
 <script>
+
 const slides = [
   {
     src: "/images/AboutMe/Bicycle_Fron_Page.png",
@@ -100,7 +103,9 @@ function changeSlide(direction) {
 }
 
 showSlide(currentSlide);
+
 </script>
+
 
 
 <h2>More About Me</h2>
