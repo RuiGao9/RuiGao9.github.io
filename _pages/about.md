@@ -16,75 +16,8 @@ p {
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1RqJPnoYggKrULKly3n7fQcFqSUA8CTeP/view?usp=drive_link)
 
 
-<h2>About Me in 30 Seconds</h2>
+<h2>About Me</h2>
 Rui obtained his Ph.D. degree from <a href="https://www.usu.edu/" target="_blank">Utah State University</a> in 2023. His dissertation focused on utilizing high-resolution imagery from small unmanned aerial systems, combined with eddy-covariance flux tower data and field labor measurements, to assess plant water status and stress in California vineyards. With a master's degree in hydrology emphasizing watershed-scale processes at <a href="https://www.xjau.edu.cn/204/list.htm" target="_blank">Xinjiang Agricultural University</a>, he remains passionate about applying both physical and data-driven approaches to tackle real-world environmental challenges across different spatial scales. <b>While science and technology deeply fascinate him, it is the people behind them, their perspectives on the environment, agriculture, and sustainability, that inspire him the most.</b>
-
-
-<h2>Life in Photos</h2>
-
-<div id="life-carousel" class="photo-carousel">
-  <button class="carousel-btn prev">&#10094;</button>
-  <div class="carousel-slide">
-    <img class="carousel-img" src="" alt="carousel photo">
-    <p class="carousel-caption"></p>
-  </div>
-  <button class="carousel-btn next">&#10095;</button>
-</div>
-
-<style>
-.photo-carousel {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 1em;
-  margin: 1.5em 0;
-}
-.carousel-slide {
-  text-align: center;
-  max-width: 500px;
-}
-.carousel-slide img {
-  width: 100%;
-  max-height: 350px;
-  object-fit: cover;
-  border-radius: 8px;
-}
-.carousel-slide p {
-  margin-top: 0.5em;
-  font-size: 0.9em;
-  color: #555;
-}
-.carousel-btn {
-  background: none;
-  border: none;
-  font-size: 1.8em;
-  cursor: pointer;
-  color: #333;
-  padding: 0.3em;
-}
-.carousel-btn:hover {
-  color: #007acc;
-}
-</style>
-
-<script src="/assets/js/photo-carousel.js"></script>
-<script>
-  initCarousel('life-carousel', [
-    {
-      src: "/images/AboutMe/Bicycle_Fron_Page.png",
-      caption: "June 2026 — Building an EC flux tower from the ground up at the FEWS Lab."
-    },
-    {
-      src: "/images/AboutMe/Dissertation_Flyer_GR.png",
-      caption: "August 2025 — Assembling 'Flux on Wheels,' a trailer-mounted EC flux tower."
-    },
-    {
-      src: "/images/AboutMe/GR-PhD.jpg",
-      caption: "2023 — Ph.D. defense at Utah State University."
-    }
-    // 以后想加照片，就在这里继续加 { src: "...", caption: "..." }
-  ]);
-</script>
 
 
 <h2>More About Me</h2>
